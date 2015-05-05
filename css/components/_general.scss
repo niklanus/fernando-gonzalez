@@ -1,0 +1,105 @@
+html {
+	height: 100%;
+	font-size: 100%;
+	overflow-x: hidden;
+}
+body {
+	min-height: 100%;
+	font-size: 18px;
+	font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, sans-serif;
+	color: $gray;
+	background: $darkgray;
+	position: relative;
+	overflow-x: hidden;
+}
+.page-wrapper {
+	max-width: 1500px;
+	margin: 0 auto;
+	position: relative;
+	background: #f3f3f3;
+	min-height: 100%;
+	overflow: auto;
+}
+p {
+	line-height: 1.35em;
+}
+a {
+	color: $gray;
+}
+.container {
+	position: relative;
+	z-index: 1;
+}
+/*
+::selection {
+	background: rgba(44,62,102,0.75);
+	color: white;
+}
+::-moz-selection {
+	background: rgba(44,62,102,0.75);
+	color: white;
+}*/
+
+
+.btn {
+	display: inline-block;
+	line-height: 44px;
+	padding: 0 25px;
+	font-size: 0.9em;
+	cursor: pointer;
+	border: 0;
+	outline: 0;
+	white-space: nowrap;
+	text-decoration: none;
+	text-transform: uppercase;
+	position: relative;
+	@include hover-slow;
+
+	p {
+		line-height: 44px;
+	}
+
+	i {
+		position: relative;
+		top: 2px;
+		margin: 0 8px 0 0;
+
+		&.icon-right {
+			margin: 0 0 0 8px;
+		}
+	}
+}
+
+.btn-light {
+	@extend .btn;
+	color: white;
+	border: 1px solid white;
+	border: 1px solid rgba(255,255,255,0.5);
+	background: transparent;
+
+	&:hover {
+		background: white;
+		color: $gray;
+	}
+}
+
+.btn-dark {
+	@extend .btn;
+	border: 1px solid $gray;
+	background: transparent;
+
+	&:hover {
+		background: $gray;
+		color: white;
+	}
+}
+
+h1 {
+	font-family: 'Dosis', 'Fira Sans', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 3.2em;
+	font-weight: 400;
+	margin: 0 0 70px 0;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	text-align: center;
+}
