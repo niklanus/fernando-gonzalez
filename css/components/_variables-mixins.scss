@@ -125,3 +125,18 @@ $green: #87cd44;
     opacity: 0.2;
   }
 }
+
+@-webkit-keyframes servicios-container {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}

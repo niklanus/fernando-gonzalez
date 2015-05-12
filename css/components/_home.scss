@@ -1,0 +1,153 @@
+.home-featured {
+	height: 600px;
+	height: 100vh;
+	position: relative;
+	margin: 0;
+}
+
+.home-slider {
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 0;
+
+	.slick-list, .slick-track {
+		height: 100% !important;
+	}
+
+	.slide {
+		position: relative;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 50% 90%;
+
+		&:before{
+			content: ' ';
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			z-index: 1;
+			background: rgba(0,0,0,0.55);
+		}
+
+		&.slide-1{
+			background-image: url(../img/home-slider/1.jpg);
+		}
+
+		&.slide-2{
+			background-image: url(../img/home-slider/2.jpg);
+		}
+
+		&.slide-3{
+			background-image: url(../img/home-slider/3.jpg);
+		}
+	}
+}
+
+.home-slider-fixed {
+	width: 100%;
+	height: 100%;
+	display: table;
+	position: relative;
+	z-index: 1;
+	color: white;
+	text-align: center;
+
+	.fixed-centering {
+		display: table-cell;
+		vertical-align: middle;
+
+		.fixed-content {
+			position: relative;
+			top: 42px;
+			padding: 0 7%;
+		}
+	}
+	
+	h1 {
+		margin: 0 0 30px 0;
+
+		@media only screen and (max-width : 767px) {
+			font-size: 2.8em;	
+		}
+
+		@media only screen and (max-width : 500px) {
+			font-size: 2.5em;	
+		}
+
+		@media only screen and (max-width : 399px) {
+			font-size: 2.1em;	
+		}
+
+		@media only screen and (max-width : 340px) {
+			font-size: 1.85em;	
+		}
+	}
+
+	p {
+		max-width: 620px;
+		margin: 0 auto 20px auto;
+
+		@media only screen and (max-width : 500px) {
+			font-size: 0.9em;	
+		}
+	}
+}
+
+.home-scroll {
+	position: absolute;
+	z-index: 1;
+	width: 100%;
+	bottom: 0px;
+	display: block;
+	background: transparent;
+	border: 0;
+	outline: 0;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2.5em;
+	color: white;
+	text-decoration: none;
+	padding: 20px 0;
+	cursor: pointer;
+	@include hover;
+
+	&:hover {
+		background: rgba(255,255,255,0.2);
+	}
+
+	i {
+		position: relative;
+		top: -3px;
+		animation: scroll-down 2s infinite;
+	}
+
+	@media only screen and (max-height : 580px) {
+		display: none;
+	}
+}
+
+section {
+	margin-top: 130px;
+}
+
+.home-obras, .home-concursos, .home-servicios, .home-estudio, .home-contact {
+	text-align: center;
+
+	.btn-light, .btn-dark {
+		margin-top: 26px;
+	}
+}

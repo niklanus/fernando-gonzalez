@@ -24,6 +24,25 @@
   padding-left: 5%;
   margin-right: auto;
   margin-left: auto;
+
+  @media only screen and (max-width : 1300px) {
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+
+  &.max-1500 {
+    max-width: 1500px;
+    margin: 0 auto;
+  }
+}
+.container-centered {
+  width: 100%;
+  display: table;
+
+  > div {
+    display: table-cell;
+    vertical-align: middle;
+  }
 }
 .row {
   margin-right: -15px;
