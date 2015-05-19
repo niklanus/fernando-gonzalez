@@ -9,12 +9,12 @@
 
 <section class="obra">
 	<div class="obra-gallery">
-		<img src="/obras/1/1.jpg" alt="">
-		<img src="/obras/1/2.jpg" alt="">
-		<img src="/obras/1/3.jpg" alt="">
-		<img src="/obras/1/4.jpg" alt="">
-		<img src="/obras/1/5.jpg" alt="">
-		<img src="/obras/1/6.jpg" alt="">
+		<img src="obras/1/1.jpg" alt="">
+		<img src="obras/1/2.jpg" alt="">
+		<img src="obras/1/3.jpg" alt="">
+		<img src="obras/1/4.jpg" alt="">
+		<img src="obras/1/5.jpg" alt="">
+		<img src="obras/1/6.jpg" alt="">
 	</div>
 
 	<div class="container obra-info">
@@ -50,7 +50,7 @@
 <script src="js/galleria-1.4.2.min.js"></script>
 
 <script>
-	Galleria.loadTheme('../js/galleria.classic.min.js');
+	Galleria.loadTheme('js/galleria.classic.min.js');
 	Galleria.run('.obra-gallery');
 	Galleria.configure({
 		showCounter: false

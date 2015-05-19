@@ -4322,7 +4322,7 @@ h3, .subtitle {
   top: 10px; }
 
 footer {
-  margin-top: 130px;
+  margin-top: 100px;
   text-align: center; }
 
 .footer-nav {
@@ -4800,6 +4800,13 @@ section {
     text-align: left; }
     .estudio-col1 .inner .subtitle, .estudio-col2 .inner .subtitle {
       margin-top: 0px; }
+    @media only screen and (max-width: 767px) {
+      .estudio-col1 .inner, .estudio-col2 .inner {
+        padding: 45px 30px; } }
+  @media only screen and (max-width: 1100px) {
+    .estudio-col1, .estudio-col2 {
+      display: block !important;
+      width: 100%; } }
 
 .estudio-col1 {
   background-color: #6faf2f; }
@@ -4815,10 +4822,16 @@ section {
   .estudio-col2 .btn-grid {
     margin-top: 30px;
     margin-bottom: 10px; }
-    .estudio-col2 .btn-grid .col-md-6:first-child {
+    .estudio-col2 .btn-grid .col-sm-6:first-child {
       padding-right: 5px; }
-    .estudio-col2 .btn-grid .col-md-6:last-child {
+    .estudio-col2 .btn-grid .col-sm-6:last-child {
       padding-left: 5px; }
+    @media only screen and (max-width: 767px) {
+      .estudio-col2 .btn-grid .col-sm-6:first-child {
+        padding-right: 15px;
+        margin-bottom: 10px; }
+      .estudio-col2 .btn-grid .col-sm-6:last-child {
+        padding-left: 15px; } }
 
 .estudio-cv p {
   margin: 0 0 20px 0;

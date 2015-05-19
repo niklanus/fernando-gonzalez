@@ -435,6 +435,15 @@
 		.subtitle{
 			margin-top: 0px;
 		}
+
+		@media only screen and (max-width : 767px){
+			padding: 45px 30px;
+		}
+	}
+
+	@media only screen and (max-width : 1100px){
+		display: block !important;
+		width: 100%;
 	}
 }
 
@@ -459,12 +468,23 @@
 		margin-top: 30px;
 		margin-bottom: 10px;
 
-		.col-md-6:first-child {
+		.col-sm-6:first-child {
 			padding-right: 5px;
 		}
 
-		.col-md-6:last-child {
+		.col-sm-6:last-child {
 			padding-left: 5px;
+		}
+
+		@media only screen and (max-width : 767px){
+			.col-sm-6:first-child {
+				padding-right: 15px;
+				margin-bottom: 10px;
+			}
+
+			.col-sm-6:last-child {
+				padding-left: 15px;
+			}
 		}
 	}
 }

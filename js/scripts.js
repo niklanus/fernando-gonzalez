@@ -254,6 +254,74 @@ $(document).ready(function() {
 (function($, window, document, undefined) {
     'use strict';
 
+    var gridContainer = $('.cbp-multimedia'),
+        filtersContainer = $('.cbp-obras-filters'),
+        wrap, filtersCallback;
+
+    gridContainer.cubeportfolio({
+        layoutMode: 'grid',
+        rewindNav: true,
+        scrollByPage: false,
+        defaultFilter: '*',
+        animationType: 'scaleSides',
+        gapHorizontal: 4,
+        gapVertical: 4,
+        gridAdjustment: 'responsive',
+        mediaQueries: [{
+            width: 900,
+            cols: 3
+        }, {
+            width: 500,
+            cols: 2
+        }, {
+            width: 400,
+            cols: 1
+        }],
+        caption: 'zoom',
+        displayType: 'sequentially',
+        displayTypeSpeed: 100,
+
+        // lightbox
+        lightboxDelegate: '.cbp-lightbox',
+        lightboxGallery: true,
+        lightboxTitleSrc: 'data-title',
+        lightboxCounter: '<div class="cbp-popup-lightbox-counter">{{current}} of {{total}}</div>',
+
+        // singlePage popup
+        singlePageDelegate: '.cbp-singlePage',
+        singlePageDeeplinking: true,
+        singlePageStickyNavigation: true,
+        singlePageCounter: '<div class="cbp-popup-singlePage-counter">{{current}} of {{total}}</div>',
+        singlePageCallback: function(url, element) {
+            var t = this;
+
+            $.ajax({
+                url: url,
+                type: 'GET',
+                dataType: 'html',
+                timeout: 5000
+            })
+            .done(function(result) {
+                t.updateSinglePage(result);
+            })
+            .fail(function() {
+                t.updateSinglePage("Error! Please refresh the page!");
+            });
+        },
+
+        // single page inline
+        singlePageInlineDelegate: '.cbp-singlePageInline',
+        singlePageInlinePosition: 'above',
+        singlePageInlineInFocus: true,
+        singlePageInlineCallback: function(url, element) {
+            // to update singlePage Inline content use the following method: this.updateSinglePageInline(yourContent)
+        }
+    });
+})(jQuery, window, document);
+
+(function($, window, document, undefined) {
+    'use strict';
+
     var gridContainer = $('.cbp-concursos'),
         filtersContainer = $('.cbp-concursos-filters'),
         wrap, filtersCallback;

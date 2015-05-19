@@ -1,4 +1,4 @@
-<?php $currentPage = 'estudio';  ?>
+<?php $currentPage = 'estudio'; ?>
 
 <?php include_once('includes/header.php') ?>
 
@@ -57,10 +57,10 @@
 				</div>
 				
 				<div class="row cf btn-grid">
-					<div class="col-md-6">
+					<div class="col-sm-6">
 						<a href="" class="btn-light">Todas las obras</a>
 					</div>
-					<div class="col-md-6">
+					<div class="col-sm-6">
 						<a href="" class="btn-light">Todos los concursos</a>
 					</div>
 				</div>
