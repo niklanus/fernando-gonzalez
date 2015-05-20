@@ -1,5 +1,7 @@
-<?php $currentPage = 'home';  ?>
+<?php $currentPage = 'home'; ?>
 
+<?php include_once('includes/db.php') ?>
+<?php include_once('includes/functions.php') ?>
 <?php include_once('includes/header.php') ?>
 
 <section class="home-featured">
@@ -25,105 +27,7 @@
 		<h1>Obras</h1>
 
 		<div class="cbp-l-grid-work cbp cbp-caption-fadeIn cbp-obras">
-			<ul>
-				<li class="cbp-item">
-					<div class="cbp-item-wrapper">
-						<a href="verObra.php" class="cbp-caption">
-							<div class="cbp-caption-defaultWrap">
-								<img src="obras/tortugas-open-mall/thumb.jpg" alt="">
-							</div>
-							<div class="cbp-caption-activeWrap">
-								<div class="cbp-l-caption-alignCenter">
-									<div class="cbp-l-caption-body">
-										<div class="obras-grid-caption">Tortugas Open Mall<br><span>Malvinas Argentinas, Bs. As.</span></div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-				</li>
-				<li class="cbp-item">
-					<div class="cbp-item-wrapper">
-						<a href="verObra.php" class="cbp-caption">
-							<div class="cbp-caption-defaultWrap">
-								<img src="obras/tortugas-open-mall/thumb.jpg" alt="">
-							</div>
-							<div class="cbp-caption-activeWrap">
-								<div class="cbp-l-caption-alignCenter">
-									<div class="cbp-l-caption-body">
-										<div class="obras-grid-caption">Tortugas Open Mall<br><span>Malvinas Argentinas, Bs. As.</span></div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-				</li>
-				<li class="cbp-item">
-					<div class="cbp-item-wrapper">
-						<a href="verObra.php" class="cbp-caption">
-							<div class="cbp-caption-defaultWrap">
-								<img src="obras/tortugas-open-mall/thumb.jpg" alt="">
-							</div>
-							<div class="cbp-caption-activeWrap">
-								<div class="cbp-l-caption-alignCenter">
-									<div class="cbp-l-caption-body">
-										<div class="obras-grid-caption">Tortugas Open Mall<br><span>Malvinas Argentinas, Bs. As.</span></div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-				</li>
-				<li class="cbp-item">
-					<div class="cbp-item-wrapper">
-						<a href="verObra.php" class="cbp-caption">
-							<div class="cbp-caption-defaultWrap">
-								<img src="obras/tortugas-open-mall/thumb.jpg" alt="">
-							</div>
-							<div class="cbp-caption-activeWrap">
-								<div class="cbp-l-caption-alignCenter">
-									<div class="cbp-l-caption-body">
-										<div class="obras-grid-caption">Tortugas Open Mall<br><span>Malvinas Argentinas, Bs. As.</span></div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-				</li>
-				<li class="cbp-item">
-					<div class="cbp-item-wrapper">
-						<a href="verObra.php" class="cbp-caption">
-							<div class="cbp-caption-defaultWrap">
-								<img src="obras/tortugas-open-mall/thumb.jpg" alt="">
-							</div>
-							<div class="cbp-caption-activeWrap">
-								<div class="cbp-l-caption-alignCenter">
-									<div class="cbp-l-caption-body">
-										<div class="obras-grid-caption">Tortugas Open Mall<br><span>Malvinas Argentinas, Bs. As.</span></div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-				</li>
-				<li class="cbp-item">
-					<div class="cbp-item-wrapper">
-						<a href="verObra.php" class="cbp-caption">
-							<div class="cbp-caption-defaultWrap">
-								<img src="obras/tortugas-open-mall/thumb.jpg" alt="">
-							</div>
-							<div class="cbp-caption-activeWrap">
-								<div class="cbp-l-caption-alignCenter">
-									<div class="cbp-l-caption-body">
-										<div class="obras-grid-caption">Tortugas Open Mall<br><span>Malvinas Argentinas, Bs. As.</span></div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-				</li>
-
-			</ul>
+			<?php print(works_home()); ?>
 		</div>
 
 		<a class="btn-dark" href="obras.php">Ver todas las Obras</a>

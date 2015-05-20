@@ -22,3 +22,9 @@
 <script src="js/smooth-scroll.min.js"></script>
 <script src="js/cubeportfolio.min.js"></script>
 <script src="js/scripts.js"></script>
+
+<?php 
+	if (isset($connection)) {
+		mysqli_close($connection);
+	}
+?>
