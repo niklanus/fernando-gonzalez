@@ -58,10 +58,10 @@
 				
 				<div class="row cf btn-grid">
 					<div class="col-sm-6">
-						<a href="" class="btn-light">Todas las obras</a>
+						<a href="obras.php" class="btn-light">Ver obras</a>
 					</div>
 					<div class="col-sm-6">
-						<a href="" class="btn-light">Todos los concursos</a>
+						<a href="concursos.php" class="btn-light">Ver concursos</a>
 					</div>
 				</div>
 				

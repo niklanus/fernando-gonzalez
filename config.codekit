@@ -20,6 +20,83 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/concursos\/parque-mendoza-capital\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 344249,
+		"inputAbbreviatedPath": "\/concursos\/parque-mendoza-capital\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-mendoza-capital\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-micaela-bastidas\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 362033,
+		"inputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-micaela-bastidas\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288973,
+		"inputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-micaela-bastidas\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 435562,
+		"inputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/3.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-micaela-bastidas\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225635,
+		"inputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/4.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-micaela-bastidas\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 323310,
+		"inputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/5.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-micaela-bastidas\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 318353,
+		"inputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/6.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/concursos\/parque-micaela-bastidas\/thumb.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -428,6 +505,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/cbp-sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8897,
+		"inputAbbreviatedPath": "\/img\/cbp-sprite.png",
+		"outputAbbreviatedPath": "\/img\/cbp-sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/estudio.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -600,6 +688,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/includes\/footerNoticias.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/includes\/footerNoticias.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/includes\/functions.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -614,6 +711,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/includes\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/includes\/headerNoticias.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/includes\/headerNoticias.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -693,6 +799,17 @@
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 0
 		},
+	"\/js\/jquery.fitvids.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/jquery.fitvids.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.fitvids-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 0
+		},
 	"\/js\/jquery.waypoints.min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -715,23 +832,12 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 0
 		},
-	"\/js\/min\/galleria.classic.min-min.js": {
+	"\/js\/min\/jquery.fitvids-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/galleria.classic.min-min.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/galleria.classic.min-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/min\/jquery.fittext-min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/jquery.fittext-min.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/jquery.fittext-min-min.js",
+		"inputAbbreviatedPath": "\/js\/min\/jquery.fitvids-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/jquery.fitvids-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -775,6 +881,101 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/multimedia.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 362033,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/1.jpg",
+		"outputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288973,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/2.jpg",
+		"outputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 435562,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/3.jpg",
+		"outputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225635,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/4.jpg",
+		"outputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 323310,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/5.jpg",
+		"outputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 318353,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/6.jpg",
+		"outputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109063,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/thumb.jpg",
+		"outputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/ver copia.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/ver copia.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/multimedia\/parque-mujeres-argentinas\/ver.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/ver.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -942,6 +1143,101 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/prensa.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/prensa.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/prensa\/ypf-nordelta\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178417,
+		"inputAbbreviatedPath": "\/prensa\/ypf-nordelta\/1.jpg",
+		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/prensa\/ypf-nordelta\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141154,
+		"inputAbbreviatedPath": "\/prensa\/ypf-nordelta\/2.jpg",
+		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/prensa\/ypf-nordelta\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154746,
+		"inputAbbreviatedPath": "\/prensa\/ypf-nordelta\/3.jpg",
+		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/prensa\/ypf-nordelta\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334640,
+		"inputAbbreviatedPath": "\/prensa\/ypf-nordelta\/4.jpg",
+		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/prensa\/ypf-nordelta\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135876,
+		"inputAbbreviatedPath": "\/prensa\/ypf-nordelta\/5.jpg",
+		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/prensa\/ypf-nordelta\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96521,
+		"inputAbbreviatedPath": "\/prensa\/ypf-nordelta\/6.jpg",
+		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/prensa\/ypf-nordelta\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57248,
+		"inputAbbreviatedPath": "\/prensa\/ypf-nordelta\/thumb.jpg",
+		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/prensa\/ypf-nordelta\/verNoticia.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/prensa\/ypf-nordelta\/verNoticia.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/README.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -959,6 +1255,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/servicios.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/verConcurso.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/verConcurso.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

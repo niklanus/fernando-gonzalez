@@ -12,6 +12,7 @@ $(document).ready(function() {
 
         if (viewportHeight < 700) {
             $('.obra-gallery').height(viewportHeight-96);
+            //$('.noticia-gallery').height(viewportHeight-96);
         }
 	}).resize();
 
@@ -57,6 +58,8 @@ $(document).ready(function() {
 			$('body').addClass('nav-visible');
 		}
 	});
+
+    $(".video-container").fitVids();
 
 
 
@@ -141,11 +144,11 @@ $(document).ready(function() {
 
     // OCULTAR NAVBAR PARA MOBILE
 
-    $('.contact-form input, .contact-form textarea').focus(function() {
+    /*$('.contact-form input, .contact-form textarea').focus(function() {
         $('.navbar').addClass('hidden');
     }).blur(function(){
         $('.navbar').removeClass('hidden');
-    });
+    });*/
 });
 
 
@@ -254,8 +257,8 @@ $(document).ready(function() {
 (function($, window, document, undefined) {
     'use strict';
 
-    var gridContainer = $('.cbp-multimedia'),
-        filtersContainer = $('.cbp-obras-filters'),
+    var gridContainer = $('.cbp-concursos'),
+        filtersContainer = $('.cbp-concursos-filters'),
         wrap, filtersCallback;
 
     gridContainer.cubeportfolio({
@@ -268,13 +271,10 @@ $(document).ready(function() {
         gapVertical: 4,
         gridAdjustment: 'responsive',
         mediaQueries: [{
-            width: 900,
-            cols: 3
-        }, {
-            width: 500,
+            width: 767,
             cols: 2
         }, {
-            width: 400,
+            width: 766,
             cols: 1
         }],
         caption: 'zoom',
@@ -322,8 +322,8 @@ $(document).ready(function() {
 (function($, window, document, undefined) {
     'use strict';
 
-    var gridContainer = $('.cbp-concursos'),
-        filtersContainer = $('.cbp-concursos-filters'),
+    var gridContainer = $('.cbp-multimedia'),
+        filtersContainer = $('.cbp-multimedia-filters'),
         wrap, filtersCallback;
 
     gridContainer.cubeportfolio({

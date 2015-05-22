@@ -29,6 +29,25 @@ function find_works_home(){
 	return $works_set;
 }
 
+function find_all_contests(){
+	global $connection;
+
+	$query = "SELECT * FROM concursos WHERE hidden=0 ORDER BY id ASC";
+	$contests_set = mysqli_query($connection, $query);
+	confirm_query($contests_set);
+	return $contests_set;
+}
+
+function find_contests_home(){
+	global $connection;
+
+	$query = "SELECT * FROM concursos WHERE hidden=0 ORDER BY id ASC LIMIT 2";
+	$contests_set = mysqli_query($connection, $query);
+	confirm_query($contests_set);
+	return $contests_set;
+}
+
+
 function works_portfolio(){
 	$output = "<ul>";
 	$object_set = find_all_works();
@@ -78,6 +97,66 @@ function works_home(){
 											<div class=\"obras-grid-caption\">
 												{$object["name"]}<br><span>{$object["location"]}</span>
 											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div>
+					</li>";
+    }
+
+    $output .= "</ul>";
+
+    return ($output);
+
+    mysqli_free_result($object_set);
+}
+
+function contests_portfolio(){
+	$output = "<ul>";
+	$object_set = find_all_contests();
+
+	while ( $object = mysqli_fetch_assoc($object_set) ) {
+		$output .= "<li class=\"cbp-item\">
+						<div class=\"cbp-item-wrapper\">
+							<a href=\"verConcurso.php?concurso={$object["shortname"]}\" class=\"cbp-caption\">
+								<div class=\"cbp-caption-defaultWrap\">
+									<img src=\"concursos/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
+								</div>
+								<div class=\"cbp-caption-activeWrap\">
+									<div class=\"cbp-l-caption-alignCenter\">
+										<div class=\"cbp-l-caption-body\">
+											<div class=\"concursos-grid-caption\"><span>{$object["prize"]}</span>{$object["name"]}<br></div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div>
+					</li>";
+    }
+
+    $output .= "</ul>";
+
+    return ($output);
+
+    mysqli_free_result($object_set);
+}
+
+function contests_home(){
+	$output = "<ul>";
+	$object_set = find_contests_home();
+
+	while ( $object = mysqli_fetch_assoc($object_set) ) {
+		$output .= "<li class=\"cbp-item\">
+						<div class=\"cbp-item-wrapper\">
+							<a href=\"verConcurso.php?concurso={$object["shortname"]}\" class=\"cbp-caption\">
+								<div class=\"cbp-caption-defaultWrap\">
+									<img src=\"concursos/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
+								</div>
+								<div class=\"cbp-caption-activeWrap\">
+									<div class=\"cbp-l-caption-alignCenter\">
+										<div class=\"cbp-l-caption-body\">
+											<div class=\"concursos-grid-caption\"><span>{$object["prize"]}</span>{$object["name"]}<br></div>
 										</div>
 									</div>
 								</div>

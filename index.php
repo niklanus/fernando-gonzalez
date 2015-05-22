@@ -10,7 +10,7 @@
 			<div class="fixed-content">
 				<h1>Arquitectura del Paisaje</h1>
 				<p>Contamos con profesionales capacitados para encarar diseños creativos de alta calidad y el desarrollo de documentación técnica y licitatoria para obras de paisajismo en todas las escalas.</p>
-				<a href="" class="btn-light">Nuestros servicios</a>
+				<a href="servicios.php" class="btn-light">Nuestros servicios</a>
 			</div>
 		</div>
 	</div>
@@ -39,43 +39,10 @@
 		<h1>Concursos</h1>
 
 		<div class="cbp-l-grid-work cbp cbp-cols-2 cbp-concursos">
-			<ul>
-				<li class="cbp-item">
-					<div class="cbp-item-wrapper">
-						<a href="#" class="cbp-caption">
-							<div class="cbp-caption-defaultWrap">
-								<img src="concursos/parque-micaela-bastidas/thumb.jpg" alt="">
-							</div>
-							<div class="cbp-caption-activeWrap">
-								<div class="cbp-l-caption-alignCenter">
-									<div class="cbp-l-caption-body">
-										<div class="concursos-grid-caption"><span>Primer premio</span>Parque Micaela Bastidas<br></div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-				</li>
-				<li class="cbp-item">
-					<div class="cbp-item-wrapper">
-						<a href="#" class="cbp-caption">
-							<div class="cbp-caption-defaultWrap">
-								<img src="concursos/parque-micaela-bastidas/thumb.jpg" alt="">
-							</div>
-							<div class="cbp-caption-activeWrap">
-								<div class="cbp-l-caption-alignCenter">
-									<div class="cbp-l-caption-body">
-										<div class="concursos-grid-caption"><span>Primer premio</span>Parque Micaela Bastidas<br></div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-				</li>
-			</ul>
+			<?php print(contests_home()); ?>
 		</div>
 
-		<div class="btn-dark">Ver todos los concursos</div>
+		<a class="btn-dark" href="concursos.php">Ver todos los concursos</a>
 	</div>
 </section>
 
@@ -114,7 +81,7 @@
 				<p class="subtitle">Nos especializamos en proyectos de arquitectura del paisaje de mediana y gran envergadura.</p>
 				<p>Contamos con profesionales capacitados para encarar diseños creativos de alta calidad y el desarrollo de documentación técnica y licitatoria para obras de paisajismo en todas las escalas.</p>
 				<p>Tenemos importantes antecedentes en la Argentina y en el exterior en proyectos de parquización de barrios cerrados, clubes, hipódromos y parques públicos.</p>
-				<a href="" class="btn-light">Mas información</a>
+				<a href="estudio.php" class="btn-light">Mas información</a>
 			</div>
 		</div>
 		<div class="home-estudio-col2">

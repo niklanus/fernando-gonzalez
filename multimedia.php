@@ -10,23 +10,30 @@
 			<ul>
 				<li class="cbp-item">
 					<div class="cbp-item-wrapper">
-						<a href="verObra.php?id_obra=1" class="cbp-caption">
+						<a href="multimedia/parque-mujeres-argentinas/ver.html" class="cbp-caption cbp-singlePage">
 							<div class="cbp-caption-defaultWrap">
-								<img src="obras/tortugas-open-mall/thumb.jpg" alt="">
+								<img src="multimedia/parque-mujeres-argentinas/thumb.jpg" alt="Parque Mujeres Argentinas">
 							</div>
 							<div class="cbp-caption-activeWrap">
 								<div class="cbp-l-caption-alignCenter">
 									<div class="cbp-l-caption-body">
-										<div class="obras-grid-caption">Tortugas Open Mall<br><span>Malvinas Argentinas, Bs. As.</span></div>
+										<div class="concursos-grid-caption"><span>Recorrido 3D</span>Parque Mujeres Argentinas<br></div>
 									</div>
 								</div>
 							</div>
 						</a>
 					</div>
 				</li>
-
 			</ul>
 		</div>
+
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+
 	</div>
 </section>
 

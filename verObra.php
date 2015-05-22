@@ -13,21 +13,23 @@
 		$obra = preg_replace('/[^-a-zA-Z0-9_]/', '', $_GET["obra"]);
 		$query = "SELECT * FROM obras WHERE shortname = '{$obra}'";
 		$work = mysqli_query($connection, $query);
-		if (mysqli_num_rows($work) == 0) {
+
+		if (!(mysqli_num_rows($work) == 1)) {
 			redirect_to('obras.php');
 		}
+
 		return $work;
 	}
 	
-	$object_set = find_work();
+	$find_work = find_work();
 
-	while ($object = mysqli_fetch_assoc($object_set)) {
-		$GLOBALS['work_name']        = $object["name"];
-		$GLOBALS['work_location']    = $object["location"];
-		$GLOBALS['work_client']      = $object["client"];
-		$GLOBALS['work_period']      = $object["period"];
-		$GLOBALS['work_description'] = $object["description"];
-	}
+	$work_item = mysqli_fetch_assoc($find_work);
+
+	$GLOBALS['work_name']        = $work_item["name"];
+	$GLOBALS['work_location']    = $work_item["location"];
+	$GLOBALS['work_client']      = $work_item["client"];
+	$GLOBALS['work_period']      = $work_item["period"];
+	$GLOBALS['work_description'] = $work_item["description"];
 ?>
 
 <section class="obra">
@@ -95,7 +97,7 @@
 	</div>
 </section>
 
-<?php mysqli_free_result($object_set); ?>
+<?php mysqli_free_result($find_work); ?>
 
 <?php include_once('includes/footer.php') ?>
 

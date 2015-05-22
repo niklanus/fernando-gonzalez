@@ -1,8 +1,8 @@
 <?php 
 	define("DB_SERVER", "localhost");
-	define("DB_USER", "gonzalez");
+	define("DB_USER", "pais115_gonzalez");
 	define("DB_PASS", "joesatr1ani");
-	define("DB_NAME", "gonzalez");
+	define("DB_NAME", "pais115_gonzalez");
 
 	$connection = mysqli_connect(DB_SERVER, DB_USER, DB_PASS, DB_NAME);
 
