@@ -115,6 +115,8 @@
     height: 20px;
     cursor: pointer;
     background-color: #000;
+
+    display: none !important;
 }
 .galleria-theme-classic.notouch .galleria-info-link:hover {
     opacity: 1;

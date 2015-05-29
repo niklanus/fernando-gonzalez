@@ -11,7 +11,7 @@
 </div>
 
 <section class="noticia-container container">
-	<h3 class="subtitle">YPF - Estación de Servicio Tigre-Nordelta</h3>
+	<h1>YPF - Estación de Servicio Tigre-Nordelta</h1>
 	<div class="noticia-viendo">
 		<p>El proyecto se concentra en la propuesta de una superficie natural continua, elevada para cobijar e integrar los servicios para el automóvil así como para sus conductores y acompañantes. Debajo se distribuyen el área para vehículos, la circulación de personas y, entre ellos, las islas de surtidores de combustibles con el cruce vehicular entre las avenidas a ambos lados. Hacia el lago, se encuentra la tienda y cafetería con una variedad de escala para el supermercado y un living doméstico, con terrazas hacia el lago. La cualidad del paisaje y las situaciones tienen sin embargo una escala pública y natural, acorde a la geografía del Delta del Tigre, reconstruido a partir de la incorporación de especies exclusivamente, procurando el equilibrio natural y la consiguiente reducción de mantenimiento y la sustentabilidad biológica.</p>
 		<p>El impacto visual del techo verde sobre la totalidad del edificio además de proveer un aislamiento térmico, es paliativo del suelo natural perdido por la nueva construcción, es recolector de aguas, y en su propia pendiente permite el riego pluvial o la acumulación de excedentes en tanques para que se reutilice como agua para lavado primario de vehículos y riegos.</p>
