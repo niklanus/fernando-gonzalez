@@ -20,16 +20,192 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/concursos\/parque-mendoza-capital\/1.jpg": {
+	"\/concursos\/instituto-balseiro\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 344249,
-		"inputAbbreviatedPath": "\/concursos\/parque-mendoza-capital\/1.jpg",
-		"outputAbbreviatedPath": "\/concursos\/parque-mendoza-capital\/1.jpg",
+		"initialSize": 276913,
+		"inputAbbreviatedPath": "\/concursos\/instituto-balseiro\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/instituto-balseiro\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/concursos\/instituto-balseiro\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/concursos\/instituto-balseiro\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/instituto-balseiro\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/instituto-balseiro\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86141,
+		"inputAbbreviatedPath": "\/concursos\/instituto-balseiro\/thumb.jpg",
+		"outputAbbreviatedPath": "\/concursos\/instituto-balseiro\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-central-mendoza\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 306806,
+		"inputAbbreviatedPath": "\/concursos\/parque-central-mendoza\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-central-mendoza\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-central-mendoza\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 446974,
+		"inputAbbreviatedPath": "\/concursos\/parque-central-mendoza\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-central-mendoza\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-central-mendoza\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251566,
+		"inputAbbreviatedPath": "\/concursos\/parque-central-mendoza\/3.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-central-mendoza\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-central-mendoza\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84033,
+		"inputAbbreviatedPath": "\/concursos\/parque-central-mendoza\/thumb.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-central-mendoza\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-del-lago\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 328589,
+		"inputAbbreviatedPath": "\/concursos\/parque-del-lago\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-del-lago\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-del-lago\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 397436,
+		"inputAbbreviatedPath": "\/concursos\/parque-del-lago\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-del-lago\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-del-lago\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 358110,
+		"inputAbbreviatedPath": "\/concursos\/parque-del-lago\/3.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-del-lago\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-del-lago\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219200,
+		"inputAbbreviatedPath": "\/concursos\/parque-del-lago\/4.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-del-lago\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-del-lago\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42314,
+		"inputAbbreviatedPath": "\/concursos\/parque-del-lago\/thumb.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-del-lago\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-memoria\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 319879,
+		"inputAbbreviatedPath": "\/concursos\/parque-memoria\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-memoria\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-memoria\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 412270,
+		"inputAbbreviatedPath": "\/concursos\/parque-memoria\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-memoria\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-memoria\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 126701,
+		"inputAbbreviatedPath": "\/concursos\/parque-memoria\/3.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-memoria\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-memoria\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134104,
+		"inputAbbreviatedPath": "\/concursos\/parque-memoria\/4.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-memoria\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-memoria\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77383,
+		"inputAbbreviatedPath": "\/concursos\/parque-memoria\/thumb.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-memoria\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/concursos\/parque-micaela-bastidas\/1.jpg": {
 		"fileType": 16384,
@@ -40,7 +216,7 @@
 		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/concursos\/parque-micaela-bastidas\/2.jpg": {
 		"fileType": 16384,
@@ -51,7 +227,7 @@
 		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/concursos\/parque-micaela-bastidas\/3.jpg": {
 		"fileType": 16384,
@@ -62,7 +238,7 @@
 		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/concursos\/parque-micaela-bastidas\/4.jpg": {
 		"fileType": 16384,
@@ -73,7 +249,7 @@
 		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/concursos\/parque-micaela-bastidas\/5.jpg": {
 		"fileType": 16384,
@@ -84,7 +260,7 @@
 		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/concursos\/parque-micaela-bastidas\/6.jpg": {
 		"fileType": 16384,
@@ -95,7 +271,7 @@
 		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/concursos\/parque-micaela-bastidas\/thumb.jpg": {
 		"fileType": 16384,
@@ -106,7 +282,106 @@
 		"outputAbbreviatedPath": "\/concursos\/parque-micaela-bastidas\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/concursos\/parque-paz\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 326086,
+		"inputAbbreviatedPath": "\/concursos\/parque-paz\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-paz\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-paz\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 234099,
+		"inputAbbreviatedPath": "\/concursos\/parque-paz\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-paz\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-paz\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 322348,
+		"inputAbbreviatedPath": "\/concursos\/parque-paz\/3.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-paz\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/parque-paz\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64859,
+		"inputAbbreviatedPath": "\/concursos\/parque-paz\/thumb.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-paz\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/ypf-nordelta\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 314755,
+		"inputAbbreviatedPath": "\/concursos\/ypf-nordelta\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/ypf-nordelta\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/ypf-nordelta\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189164,
+		"inputAbbreviatedPath": "\/concursos\/ypf-nordelta\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/ypf-nordelta\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/ypf-nordelta\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296443,
+		"inputAbbreviatedPath": "\/concursos\/ypf-nordelta\/3.jpg",
+		"outputAbbreviatedPath": "\/concursos\/ypf-nordelta\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/ypf-nordelta\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275635,
+		"inputAbbreviatedPath": "\/concursos\/ypf-nordelta\/4.jpg",
+		"outputAbbreviatedPath": "\/concursos\/ypf-nordelta\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/concursos\/ypf-nordelta\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67097,
+		"inputAbbreviatedPath": "\/concursos\/ypf-nordelta\/thumb.jpg",
+		"outputAbbreviatedPath": "\/concursos\/ypf-nordelta\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/contact-form.php": {
 		"fileType": 8192,
@@ -523,7 +798,7 @@
 		"outputAbbreviatedPath": "\/img\/cbp-sprite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/estudio.jpg": {
 		"fileType": 16384,
@@ -534,7 +809,7 @@
 		"outputAbbreviatedPath": "\/img\/estudio.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/galleria-sprite.png": {
 		"fileType": 32768,
@@ -545,7 +820,7 @@
 		"outputAbbreviatedPath": "\/img\/galleria-sprite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/home-slider\/1.jpg": {
 		"fileType": 16384,
@@ -556,7 +831,7 @@
 		"outputAbbreviatedPath": "\/img\/home-slider\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/home-slider\/2.jpg": {
 		"fileType": 16384,
@@ -567,7 +842,7 @@
 		"outputAbbreviatedPath": "\/img\/home-slider\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/home-slider\/3.jpg": {
 		"fileType": 16384,
@@ -578,7 +853,7 @@
 		"outputAbbreviatedPath": "\/img\/home-slider\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/navbar-logo.png": {
 		"fileType": 32768,
@@ -589,7 +864,7 @@
 		"outputAbbreviatedPath": "\/img\/navbar-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/navbar-logo@2x.png": {
 		"fileType": 32768,
@@ -600,7 +875,7 @@
 		"outputAbbreviatedPath": "\/img\/navbar-logo@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/niklanus.png": {
 		"fileType": 32768,
@@ -611,7 +886,7 @@
 		"outputAbbreviatedPath": "\/img\/niklanus.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/niklanus@2x.png": {
 		"fileType": 32768,
@@ -622,7 +897,7 @@
 		"outputAbbreviatedPath": "\/img\/niklanus@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/servicios-1-bg.jpg": {
 		"fileType": 16384,
@@ -633,7 +908,7 @@
 		"outputAbbreviatedPath": "\/img\/servicios-1-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/servicios-2-bg.jpg": {
 		"fileType": 16384,
@@ -644,7 +919,7 @@
 		"outputAbbreviatedPath": "\/img\/servicios-2-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/servicios-3-bg.jpg": {
 		"fileType": 16384,
@@ -655,7 +930,7 @@
 		"outputAbbreviatedPath": "\/img\/servicios-3-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/servicios-4-bg.jpg": {
 		"fileType": 16384,
@@ -666,7 +941,7 @@
 		"outputAbbreviatedPath": "\/img\/servicios-4-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/servicios-bg.jpg": {
 		"fileType": 16384,
@@ -677,7 +952,7 @@
 		"outputAbbreviatedPath": "\/img\/servicios-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/includes\/db.php": {
 		"fileType": 8192,
@@ -903,7 +1178,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/complejo-turistico-dos-lagos\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/complejo-turistico-dos-lagos\/ver.html": {
 		"fileType": 8192,
@@ -923,7 +1198,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/10.jpg": {
 		"fileType": 16384,
@@ -934,7 +1209,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/11.jpg": {
 		"fileType": 16384,
@@ -945,7 +1220,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/12.jpg": {
 		"fileType": 16384,
@@ -956,7 +1231,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/13.jpg": {
 		"fileType": 16384,
@@ -967,7 +1242,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/14.jpg": {
 		"fileType": 16384,
@@ -978,7 +1253,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/15.jpg": {
 		"fileType": 16384,
@@ -989,7 +1264,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/16.jpg": {
 		"fileType": 16384,
@@ -1000,7 +1275,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/17.jpg": {
 		"fileType": 16384,
@@ -1011,7 +1286,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/17.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/18.jpg": {
 		"fileType": 16384,
@@ -1022,7 +1297,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/18.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/2.jpg": {
 		"fileType": 16384,
@@ -1033,7 +1308,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/3.jpg": {
 		"fileType": 16384,
@@ -1044,7 +1319,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/4.jpg": {
 		"fileType": 16384,
@@ -1055,7 +1330,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/5.jpg": {
 		"fileType": 16384,
@@ -1066,7 +1341,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/6.jpg": {
 		"fileType": 16384,
@@ -1077,7 +1352,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/7.jpg": {
 		"fileType": 16384,
@@ -1088,7 +1363,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/8.jpg": {
 		"fileType": 16384,
@@ -1099,7 +1374,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/9.jpg": {
 		"fileType": 16384,
@@ -1110,7 +1385,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/thumb.jpg": {
 		"fileType": 16384,
@@ -1121,7 +1396,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/dibujos\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/dibujos\/ver.html": {
 		"fileType": 8192,
@@ -1141,7 +1416,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/la-reserva-escondida\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/la-reserva-escondida\/ver.html": {
 		"fileType": 8192,
@@ -1161,7 +1436,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/la-victoria-polo-country-club\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/la-victoria-polo-country-club\/ver.html": {
 		"fileType": 8192,
@@ -1181,7 +1456,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/museo-del-automovil\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/museo-del-automovil\/ver.html": {
 		"fileType": 8192,
@@ -1201,7 +1476,7 @@
 		"outputAbbreviatedPath": "\/multimedia\/parque-mujeres-argentinas\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/multimedia\/parque-mujeres-argentinas\/ver.html": {
 		"fileType": 8192,
@@ -1221,71 +1496,379 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/obras\/barrio-alvear\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283523,
+		"inputAbbreviatedPath": "\/obras\/barrio-alvear\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrio-alvear\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/barrio-alvear\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45760,
+		"inputAbbreviatedPath": "\/obras\/barrio-alvear\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrio-alvear\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/barrio-barrancas\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 207283,
+		"inputAbbreviatedPath": "\/obras\/barrio-barrancas\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrio-barrancas\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/barrio-barrancas\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271385,
+		"inputAbbreviatedPath": "\/obras\/barrio-barrancas\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrio-barrancas\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/barrio-barrancas\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41000,
+		"inputAbbreviatedPath": "\/obras\/barrio-barrancas\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrio-barrancas\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/centro-urbano-nordelta\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165260,
+		"inputAbbreviatedPath": "\/obras\/centro-urbano-nordelta\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/centro-urbano-nordelta\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/centro-urbano-nordelta\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169758,
+		"inputAbbreviatedPath": "\/obras\/centro-urbano-nordelta\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/centro-urbano-nordelta\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/centro-urbano-nordelta\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 336659,
+		"inputAbbreviatedPath": "\/obras\/centro-urbano-nordelta\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/centro-urbano-nordelta\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/centro-urbano-nordelta\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72357,
+		"inputAbbreviatedPath": "\/obras\/centro-urbano-nordelta\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/centro-urbano-nordelta\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/ciudad-pueblo-puertos\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231874,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/ciudad-pueblo-puertos\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263074,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/ciudad-pueblo-puertos\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 221695,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/ciudad-pueblo-puertos\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223633,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/ciudad-pueblo-puertos\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165239,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/5.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/ciudad-pueblo-puertos\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148275,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/6.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/ciudad-pueblo-puertos\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40027,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-aguavista\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316311,
+		"inputAbbreviatedPath": "\/obras\/club-aguavista\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-aguavista\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-aguavista\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 272167,
+		"inputAbbreviatedPath": "\/obras\/club-aguavista\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-aguavista\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-aguavista\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169636,
+		"inputAbbreviatedPath": "\/obras\/club-aguavista\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-aguavista\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-aguavista\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56097,
+		"inputAbbreviatedPath": "\/obras\/club-aguavista\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-aguavista\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-de-amigos\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 196093,
+		"inputAbbreviatedPath": "\/obras\/club-de-amigos\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-de-amigos\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-de-amigos\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 403439,
+		"inputAbbreviatedPath": "\/obras\/club-de-amigos\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-de-amigos\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-de-amigos\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317850,
+		"inputAbbreviatedPath": "\/obras\/club-de-amigos\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-de-amigos\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-de-amigos\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 298340,
+		"inputAbbreviatedPath": "\/obras\/club-de-amigos\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-de-amigos\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/club-de-amigos\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67507,
+		"inputAbbreviatedPath": "\/obras\/club-de-amigos\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/club-de-amigos\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/obras\/hipodromo-ba\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 186968,
+		"initialSize": 343070,
 		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/1.jpg",
 		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/hipodromo-ba\/2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 325720,
+		"initialSize": 320590,
 		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/2.jpg",
 		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/hipodromo-ba\/3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 353728,
+		"initialSize": 148171,
 		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/3.jpg",
 		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/hipodromo-ba\/4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 449346,
+		"initialSize": 422316,
 		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/4.jpg",
 		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/hipodromo-ba\/5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 241676,
+		"initialSize": 382443,
 		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/5.jpg",
 		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/hipodromo-ba\/6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 181675,
+		"initialSize": 196356,
 		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/6.jpg",
 		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/obras\/hipodromo-ba\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 394470,
+		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/7.jpg",
+		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/hipodromo-ba\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 450484,
+		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/8.jpg",
+		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/hipodromo-ba\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 407168,
+		"inputAbbreviatedPath": "\/obras\/hipodromo-ba\/9.jpg",
+		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/obras\/hipodromo-ba\/thumb.jpg": {
 		"fileType": 16384,
@@ -1296,7 +1879,7 @@
 		"outputAbbreviatedPath": "\/obras\/hipodromo-ba\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/tortugas-open-mall\/1.jpg": {
 		"fileType": 16384,
@@ -1307,7 +1890,7 @@
 		"outputAbbreviatedPath": "\/obras\/tortugas-open-mall\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/tortugas-open-mall\/2.jpg": {
 		"fileType": 16384,
@@ -1318,7 +1901,7 @@
 		"outputAbbreviatedPath": "\/obras\/tortugas-open-mall\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/tortugas-open-mall\/3.jpg": {
 		"fileType": 16384,
@@ -1329,7 +1912,7 @@
 		"outputAbbreviatedPath": "\/obras\/tortugas-open-mall\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/tortugas-open-mall\/4.jpg": {
 		"fileType": 16384,
@@ -1340,7 +1923,7 @@
 		"outputAbbreviatedPath": "\/obras\/tortugas-open-mall\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/tortugas-open-mall\/5.jpg": {
 		"fileType": 16384,
@@ -1351,7 +1934,7 @@
 		"outputAbbreviatedPath": "\/obras\/tortugas-open-mall\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/tortugas-open-mall\/6.jpg": {
 		"fileType": 16384,
@@ -1362,7 +1945,7 @@
 		"outputAbbreviatedPath": "\/obras\/tortugas-open-mall\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/obras\/tortugas-open-mall\/thumb.jpg": {
 		"fileType": 16384,
@@ -1373,7 +1956,62 @@
 		"outputAbbreviatedPath": "\/obras\/tortugas-open-mall\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/obras\/verazul-barrio\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140137,
+		"inputAbbreviatedPath": "\/obras\/verazul-barrio\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/verazul-barrio\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/verazul-barrio\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184359,
+		"inputAbbreviatedPath": "\/obras\/verazul-barrio\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/verazul-barrio\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/verazul-barrio\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213597,
+		"inputAbbreviatedPath": "\/obras\/verazul-barrio\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/verazul-barrio\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/verazul-barrio\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137312,
+		"inputAbbreviatedPath": "\/obras\/verazul-barrio\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/verazul-barrio\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/obras\/verazul-barrio\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41700,
+		"inputAbbreviatedPath": "\/obras\/verazul-barrio\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/verazul-barrio\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/prensa.php": {
 		"fileType": 8192,
@@ -1393,7 +2031,7 @@
 		"outputAbbreviatedPath": "\/prensa\/areas-protegidas-rawson\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/areas-protegidas-rawson\/2.jpg": {
 		"fileType": 16384,
@@ -1404,7 +2042,7 @@
 		"outputAbbreviatedPath": "\/prensa\/areas-protegidas-rawson\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/areas-protegidas-rawson\/3.jpg": {
 		"fileType": 16384,
@@ -1415,7 +2053,7 @@
 		"outputAbbreviatedPath": "\/prensa\/areas-protegidas-rawson\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/areas-protegidas-rawson\/thumb.jpg": {
 		"fileType": 16384,
@@ -1426,7 +2064,7 @@
 		"outputAbbreviatedPath": "\/prensa\/areas-protegidas-rawson\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/areas-protegidas-rawson\/verNoticia.php": {
 		"fileType": 8192,
@@ -1446,7 +2084,7 @@
 		"outputAbbreviatedPath": "\/prensa\/costanera-sur\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/costanera-sur\/2.jpg": {
 		"fileType": 16384,
@@ -1457,7 +2095,7 @@
 		"outputAbbreviatedPath": "\/prensa\/costanera-sur\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/costanera-sur\/3.jpg": {
 		"fileType": 16384,
@@ -1468,7 +2106,7 @@
 		"outputAbbreviatedPath": "\/prensa\/costanera-sur\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/costanera-sur\/thumb.jpg": {
 		"fileType": 16384,
@@ -1479,7 +2117,7 @@
 		"outputAbbreviatedPath": "\/prensa\/costanera-sur\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/costanera-sur\/verNoticia.php": {
 		"fileType": 8192,
@@ -1499,7 +2137,7 @@
 		"outputAbbreviatedPath": "\/prensa\/jardin-privado-ba\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/jardin-privado-ba\/2.jpg": {
 		"fileType": 16384,
@@ -1510,7 +2148,7 @@
 		"outputAbbreviatedPath": "\/prensa\/jardin-privado-ba\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/jardin-privado-ba\/3.jpg": {
 		"fileType": 16384,
@@ -1521,7 +2159,7 @@
 		"outputAbbreviatedPath": "\/prensa\/jardin-privado-ba\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/jardin-privado-ba\/thumb.jpg": {
 		"fileType": 16384,
@@ -1532,7 +2170,7 @@
 		"outputAbbreviatedPath": "\/prensa\/jardin-privado-ba\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/jardin-privado-ba\/verNoticia.php": {
 		"fileType": 8192,
@@ -1552,7 +2190,7 @@
 		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/ypf-nordelta\/2.jpg": {
 		"fileType": 16384,
@@ -1563,7 +2201,7 @@
 		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/ypf-nordelta\/3.jpg": {
 		"fileType": 16384,
@@ -1574,7 +2212,7 @@
 		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/ypf-nordelta\/4.jpg": {
 		"fileType": 16384,
@@ -1585,7 +2223,7 @@
 		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/ypf-nordelta\/5.jpg": {
 		"fileType": 16384,
@@ -1596,7 +2234,7 @@
 		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/ypf-nordelta\/6.jpg": {
 		"fileType": 16384,
@@ -1607,7 +2245,7 @@
 		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/ypf-nordelta\/thumb.jpg": {
 		"fileType": 16384,
@@ -1618,7 +2256,7 @@
 		"outputAbbreviatedPath": "\/prensa\/ypf-nordelta\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/prensa\/ypf-nordelta\/verNoticia.php": {
 		"fileType": 8192,
