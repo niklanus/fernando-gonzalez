@@ -5258,6 +5258,10 @@ section {
     .noticia-gallery {
       height: 400px; } }
 
+.noticia-video {
+  max-width: 767px;
+  margin: 150px auto 0 auto; }
+
 .noticia-container {
   margin-top: 75px; }
   .noticia-container h1 {
@@ -5283,10 +5287,18 @@ section {
     font-size: 0.9em;
     margin-left: 30px;
     margin-right: 30px; }
+    @media only screen and (max-width: 460px) {
+      .noticia-viendo p {
+        margin-left: 0;
+        margin-right: 0; } }
   .noticia-viendo p.subtitle {
     font-size: 1.2em;
     font-weight: 500;
     margin: 35px 30px 20px 30px; }
+    @media only screen and (max-width: 460px) {
+      .noticia-viendo p.subtitle {
+        margin-left: 0;
+        margin-right: 0; } }
   @media only screen and (max-width: 460px) {
     .noticia-viendo {
       padding: 15px 20px; } }

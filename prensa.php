@@ -51,8 +51,126 @@
 			</div>
 		</div>
 
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/parque-mujeres-argentinas/thumb.jpg" alt="Parque Mujeres Argentinas" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Parque Mujeres Argentinas</h3>
+				<p><strong>Revista Summa+ N°92.</strong> La decisión de construir espacios verdes públicos de escala metropolitana en conjunto con el Proyecto de Urbanización del Antiguo Puerto Madero ha sido una de las intervenciones de mayor envergadura que se han producido en la historia de la ciudad. Más de la mitad de estas superficies (50 ha) han sido destinadas a espacios de recreación y esparcimiento...</p>
+				<a class="btn-dark" href="prensa/parque-mujeres-argentinas/verNoticia.php">Leer más</a>
+			</div>
+		</div>
 
-		
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/parque-memoria-summa/thumb.jpg" alt="Parque de la Memoria y Parque Natural" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Parque de la Memoria y Parque Natural</h3>
+				<p><strong>Revista Summa+ N°117.</strong> La ocupación de “terrenos vagos” como los que rodean los pabellones de la Ciudad Universitaria, la reinserción urbana de fragmentos monofuncionales –como el campus- y la reconstrucción del paisaje urbano contemporáneo de la ciudad son parte de los nuevos que afronta Buenos Aires junto a la renovación de sus infraestructuras y la reconstrucción de los...</p>
+				<a class="btn-dark" href="prensa/parque-memoria-summa/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/aguavista-identidad/thumb.jpg" alt="Aguavista, en búsqueda de una identidad" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Aguavista, en búsqueda de una identidad</h3>
+				<p><strong>Aguavista Magazine.</strong> González junto a los profesionales capacitados que integran su estudio de paisajismo encararán el desafío de crear y diseñar el Aguavista. Él considera importante la integración de los futuros proyectos al paisaje natural, al medio ambiente y a los flujos naturales de los ecosistemas, teniendo presentes el impacto...</p>
+				<a class="btn-dark" href="prensa/aguavista-identidad/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/aguavista-entrevista/thumb.jpg" alt="Aguavista Club de Campo" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Aguavista Club de Campo</h3>
+				<p><strong>Aguavista Magazine.</strong> Video entrevista y recorrido por el Club de Campo Aguavista con el Ing. Fernando González. En Aguavista la ubicación de cada árbol, manantial e infraestructura fue estudiado minuciosamente para que destaquen sus atributos armoniosamente con el entorno natural. Ese delicado trabajo recayó en el Ingeniero...</p>
+				<a class="btn-dark" href="prensa/aguavista-entrevista/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/dos-torres-urbanas/thumb.jpg" alt="Dos torres que reinventan el paisaje urbano" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Dos torres que reinventan el paisaje urbano</h3>
+				<p><strong>Todo Obra.</strong> "Al describir los proyectos realizados para las dos torres en Mongolia, en pleno centro de Ulan Bator, "la capital más fría del mundo", destinada una a oficinas y banco, y la otra a un hotel y residencias, Valeria del Puerto y Horacio Sardin destacaron que "ante la proliferación de una arquitectura internacional...</p>
+				<a class="btn-dark" href="prensa/dos-torres-urbanas/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/ypf-nordelta-plataforma/thumb.jpg" alt="YPF Estación de Servicio Tigre-Nordelta" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">YPF - Estación de Servicio Tigre-Nordelta</h3>
+				<p><strong>Plataforma Arquitectura.</strong> Proponemos que el impacto visual del techo verde sobre la totalidad del edificio sea además aislamiento térmico, paliativo del suelo natural perdido por la nueva construcción, y un recolector de aguas que en su propia pendiente permita el riego pluvial o la acumulación de excedentes en tanques para reutilizar...</p>
+				<a class="btn-dark" href="prensa/ypf-nordelta-plataforma/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/aguavista-paisajismo-concepto/thumb.jpg" alt="Club de Campo Aguavista, el paisajismo como concepto arquitectónico y medioambiental" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Club de Campo Aguavista, el paisajismo como concepto arquitectónico y medioambiental</h3>
+				<p><strong>El Turista en Misiones.</strong> [...] desde el inicio mismo se definió que el paisaje sirve de materia prima al hombre; este toma prestados los elementos que se encuentran en la naturaleza, los rescata, los conserva, les da forma, y los integra armonizándolos en un todo. Por todo esto, AguaVista está planificando, proyectando, construyendo...</p>
+				<a class="btn-dark" href="prensa/aguavista-paisajismo-concepto/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/parque-memoria-jardin/thumb.jpg" alt="Parque de la Memoria" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Parque de la Memoria</h3>
+				<p><strong>Revista Jardín.</strong> La plantación se hizo en conjunto con el Ing. Agr. Fernando González. Se propuso una vegetación uniforme para que no compitiera con las esculturas, reinas del lugar. Unas pocas especies de gramíneas –Cortaderia selloana, Pennisetum ruppelii, Pennisetum setaceum rubrum, Pennisetum villosum– se mecen con el viento de la costa...</p>
+				<a class="btn-dark" href="prensa/parque-memoria-jardin/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/parque-micaela-wiki/thumb.jpg" alt="Parque Micaela Bastidas" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Parque Micaela Bastidas</h3>
+				<p><strong>Wiki Arquitectura.</strong> Se plantaron en su mayoría árboles de flor, ya que aunque el uso de la gente desgastara los jardines, igual permanecería florido. La forestación se integra con mayoría de especies nativas: jacarandás, ceibos, palos borrachos, pezuñas de vaca, ibirá-pitá, lapachos, timboes y tipas. Los 40.000 árboles y arbustos...</p>
+				<a class="btn-dark" href="prensa/parque-micaela-wiki/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/parque-micaela-lanacion/thumb.jpg" alt="Parque Micaela Bastidas: un tesoro para la ciudad" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Parque Micaela Bastidas: un tesoro para la ciudad</h3>
+				<p><strong>La Nación Arquitectura.</strong> La forestación, con asesoramiento del paisajista ingeniero agrónomo Fernando González, se integra con mayoría de especies nativas, tan caras a Buenos Aires, como jacarandás, ceibos, palos borrachos, pezuñas de vaca, ibirá-pitá, lapachos, timboes y tipas, además de árboles y arbustos de probada adaptación a nuestro medio...</p>
+				<a class="btn-dark" href="prensa/parque-micaela-lanacion/verNoticia.php">Leer más</a>
+			</div>
+		</div>
+
+		<div class="noticia row cf">
+			<div class="col-sm-5">
+				<img src="prensa/areas-protegidas-rawson-noticias-arq/thumb.jpg" alt="Concurso Sede de la Subsecretaria de Turismo y Areas Protegidas en la Ciudad de Rawson" class="img-responsive">
+			</div>
+			<div class="col-sm-7">
+				<h3 class="subtitle">Concurso Sede de la Subsecretaria de Turismo y Areas Protegidas en la Ciudad de Rawson</h3>
+				<p><strong>Noticias Arquitectura.</strong> Dadas las condiciones climáticas y edáficas de la zona y del parque se prevé la implantación de cortinas forestales rompevientos de oeste a este para moderar los efectos del viento. Las mismas se acompañan por grupos de especies arbustivas y pastos nativos de menor tamaño. En su mayoría se trabaja con plantas...</p>
+				<a class="btn-dark" href="prensa/areas-protegidas-rawson-noticias-arq/verNoticia.php">Leer más</a>
+			</div>
+		</div>		
 
 	</div>
 </section>
