@@ -1,28 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<!--
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	WARNING
-	-->
 	<meta name="robots" content="noindex">
 	
 	<meta charset="UTF-8">

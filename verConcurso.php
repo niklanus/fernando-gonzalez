@@ -108,9 +108,6 @@
 
 <?php include_once('includes/footer.php') ?>
 
-<script src="js/galleria-1.4.2.min.js"></script>
-<script src="js/imagesloaded.pkgd.min.js"></script>
-
 <script>
 	Galleria.loadTheme('js/galleria.classic.min.js');
 	Galleria.run('.obra-gallery');
