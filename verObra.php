@@ -33,41 +33,48 @@
 ?>
 
 <section class="obra">
-	<div class="obra-gallery">
-		<?php
-			$work_img_directory = "obras/{$_GET["obra"]}/";
+	<div class="obra-gallery-wrapper">
+		<div class="obra-preload">
+			<div>
+				<p>cargando imágenes...</p>
+			</div>
+		</div>
+		<div class="obra-gallery">
+			<?php
+				$work_img_directory = "obras/{$_GET["obra"]}/";
 
-			if (file_exists($work_img_directory.'1.jpg')) {
-				print ("<img src=\"{$work_img_directory}1.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'2.jpg')) {
-				print ("<img src=\"{$work_img_directory}2.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'3.jpg')) {
-				print ("<img src=\"{$work_img_directory}3.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'4.jpg')) {
-				print ("<img src=\"{$work_img_directory}4.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'5.jpg')) {
-				print ("<img src=\"{$work_img_directory}5.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'6.jpg')) {
-				print ("<img src=\"{$work_img_directory}6.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'7.jpg')) {
-				print ("<img src=\"{$work_img_directory}7.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'8.jpg')) {
-				print ("<img src=\"{$work_img_directory}8.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'9.jpg')) {
-				print ("<img src=\"{$work_img_directory}9.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-			if (file_exists($work_img_directory.'10.jpg')) {
-				print ("<img src=\"{$work_img_directory}10.jpg\" alt=\"{$GLOBALS['work_name']}\">");
-			}
-		?>
+				if (file_exists($work_img_directory.'1.jpg')) {
+					print ("<img src=\"{$work_img_directory}1.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'2.jpg')) {
+					print ("<img src=\"{$work_img_directory}2.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'3.jpg')) {
+					print ("<img src=\"{$work_img_directory}3.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'4.jpg')) {
+					print ("<img src=\"{$work_img_directory}4.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'5.jpg')) {
+					print ("<img src=\"{$work_img_directory}5.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'6.jpg')) {
+					print ("<img src=\"{$work_img_directory}6.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'7.jpg')) {
+					print ("<img src=\"{$work_img_directory}7.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'8.jpg')) {
+					print ("<img src=\"{$work_img_directory}8.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'9.jpg')) {
+					print ("<img src=\"{$work_img_directory}9.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+				if (file_exists($work_img_directory.'10.jpg')) {
+					print ("<img src=\"{$work_img_directory}10.jpg\" alt=\"{$GLOBALS['work_name']}\">");
+				}
+			?>
+		</div>
 	</div>
 
 	<div class="container obra-info">
@@ -102,12 +109,17 @@
 <?php include_once('includes/footer.php') ?>
 
 <script src="js/galleria-1.4.2.min.js"></script>
+<script src="js/imagesloaded.pkgd.min.js"></script>
 
 <script>
 	Galleria.loadTheme('js/galleria.classic.min.js');
 	Galleria.run('.obra-gallery');
 	Galleria.configure({
 		showCounter: false
+	});
+
+	$('body').imagesLoaded(function() {
+		$('.obra-preload').fadeOut(500);
 	});
 </script>
 

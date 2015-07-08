@@ -4955,9 +4955,13 @@ section {
 .obra {
   margin-top: 96px; }
 
+.obra-gallery-wrapper {
+  position: relative; }
+
 .obra-gallery {
   width: 100%;
-  height: 700px; }
+  height: 700px;
+  z-index: 5; }
   @media only screen and (max-height: 800px) {
     .obra-gallery {
       height: 600px; } }
@@ -4990,6 +4994,30 @@ section {
       margin-top: 30px; }
       .obra-info-title.description {
         margin-top: 12px; } }
+
+.obra-preload {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 10;
+  background: #74b731;
+  color: white; }
+  .obra-preload div {
+    width: 200px;
+    height: 85px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -100px;
+    margin-top: -42px;
+    background: url(../img/obra-preload.gif) no-repeat 50% 0%;
+    vertical-align: bottom; }
+    .obra-preload div p {
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+      text-align: center;
+      margin: 0; }
 
 .cbp-concursos .cbp-caption-activeWrap, .cbp-multimedia .cbp-caption-activeWrap {
   top: 0;
