@@ -9,7 +9,7 @@
 		<div class="fixed-centering">
 			<div class="fixed-content">
 				<h1>Arquitectura del Paisaje</h1>
-				<p>Contamos con profesionales capacitados para encarar diseños creativos de alta calidad y el desarrollo de documentación técnica y licitatoria para obras de paisajismo en todas las escalas.</p>
+				<p>Nos especializamos en proyectos de arquitectura del paisaje e ingeniería paisajística de mediana y gran envergadura, con importantes antecedentes de trabajo en la Argentina y otros países.</p>
 				<a href="servicios.php" class="btn-light">Nuestros servicios</a>
 			</div>
 		</div>

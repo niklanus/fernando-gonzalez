@@ -14,10 +14,17 @@
 		font-size: 0.55em;
 		opacity: 0.8;
 	}
+
+	@media only screen and (max-width : 767px) {
+		font-size: 1.3em;
+	}
+	@media only screen and (max-width : 460px) {
+		font-size: 1.2em;
+	}
 }
 
 .concursos-grid-caption {
-	font-size: 1.7em;
+	font-size: 1.6em;
 	span {
 		margin-top: 0px;
 		margin-bottom: 2px;
@@ -25,9 +32,6 @@
 
 	@media only screen and (max-width : 1180px) {
 		font-size: 1.5em;
-	}
-	@media only screen and (max-width : 460px) {
-		font-size: 1.4em;
 	}
 }
 
@@ -728,6 +732,27 @@
 		em {
 			color: darken(white,40);
 		}
+	}
+}
+
+.estudio-clientes-container {
+	margin-right: -25px;
+	margin-left: -25px;
+
+	.col-sm-6 {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+}
+
+.estudio-clientes {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+
+	li {
+		font-size: 0.85em;
+		margin-bottom: 6px;
 	}
 }
 

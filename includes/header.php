@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<meta name="robots" content="noindex">
-	
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Ing. Fernando González - Estudio de Paisajismo</title>
@@ -20,7 +18,7 @@
 	<div class="container-fluid">
 		<a class="navbar-logo" href="index.php"></a>
 		<ul class="navbar-items">
-			<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras.php">Obras</a></li>
+			<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras.php">Obras y Proyectos</a></li>
 			<li class="<?php if($currentPage == 'concursos') print 'active' ?>"><a href="concursos.php">Concursos</a></li>
 			<li class="<?php if($currentPage == 'servicios') print 'active' ?>"><a href="servicios.php">Servicios</a></li>
 			<li class="<?php if($currentPage == 'estudio') print 'active' ?>"><a href="estudio.php">El Estudio</a></li>
@@ -41,7 +39,7 @@
 </nav>
 <nav class="nav-mobile">
 	<ul>
-		<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras.php">Obras</a></li>
+		<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras.php">Obras y Proyectos</a></li>
 		<li class="<?php if($currentPage == 'concursos') print 'active' ?>"><a href="concursos.php">Concursos</a></li>
 		<li class="<?php if($currentPage == 'servicios') print 'active' ?>"><a href="servicios.php">Servicios</a></li>
 		<li class="<?php if($currentPage == 'estudio') print 'active' ?>"><a href="estudio.php">El Estudio</a></li>

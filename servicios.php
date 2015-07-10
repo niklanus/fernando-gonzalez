@@ -3,7 +3,9 @@
 <?php include_once('includes/header.php') ?>
 
 <section class="servicios" id="servicios">
-	<h1>Nuestros Servicios</h1>
+	<div class="container-fluid">
+		<h1>Nuestros Servicios</h1>
+	</div>
 
 	<div class="servicio">	
 		<div class="servicio-col1">
@@ -36,7 +38,6 @@
 							<li>Planos de plantación</li>
 							<li>Croquis</li>
 							<li>Documentación gráfica y escrita</li>
-							<li>Listado de especies</li>
 						</ul>
 					</div>
 				</div>
@@ -58,14 +59,11 @@
 							<li>Cómputos métricos</li>
 							<li>Presupuesto base</li>
 							<li>Desarrollo del proyecto</li>
-							<li>Pliego de especificaciones técnicas</li>
 						</ul>
 					</div>
 					<div class="col-sm-6">
 						<ul class="servicios-list">
-							<li>Documentación para licitaciones</li>
-							<li>Análisis, calificación y recomendación de ofertas</li>
-							<li>Contrataciones</li>
+							<li>Pliego de especificaciones técnicas</li>
 							<li>Dirección de obra</li>
 							<li>Gerenciamiento de proyectos</li>
 							<li>Gerenciamiento de construcción</li>				
@@ -84,19 +82,13 @@
 		<div class="servicio-col2">
 			<div class="inner">
 				<div class="servicios-list-container row cf">
-					<div class="col-sm-6">
+					<div class="col-sm-12">
 						<ul class="servicios-list">
 							<li>Planos</li>
 							<li>Perspectivas</li>
 							<li>Renders</li>
-							<li>Animaciones</li>
-						</ul>
-					</div>
-					<div class="col-sm-6">
-						<ul class="servicios-list">
-							<li>Documentaciones para terceros</li>
-							<li>Diseño de productos</li>
-							<li>Detalles constructivos</li>						
+							<li>Croquis, bocetos y dibujos a mano alzada</li>
+							<li>Detalles constructivos</li>	
 						</ul>
 					</div>
 				</div>
@@ -122,10 +114,10 @@
 					</div>
 					<div class="col-sm-6">
 						<ul class="servicios-list">
-							<li>Césped: Green-putting</li>
-							<li>Césped en terrazas, lozas, jardines</li>
-							<li>Recuperación Árboles</li>
-							<li>Sanidad</li>
+							<li>Biorremediación</li>
+							<li>Techos verdes y jardines verticales</li>
+							<li>Recuperación Árboles y sanidad vegetal</li>
+							<li>Recuperación de suelos y cuerpos de agua</li>
 						</ul>
 					</div>
 				</div>

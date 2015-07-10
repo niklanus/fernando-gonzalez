@@ -284,6 +284,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/concursos\/parque-mujeres\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 278488,
+		"inputAbbreviatedPath": "\/concursos\/parque-mujeres\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-mujeres\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-mujeres\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 307414,
+		"inputAbbreviatedPath": "\/concursos\/parque-mujeres\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-mujeres\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-mujeres\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108685,
+		"inputAbbreviatedPath": "\/concursos\/parque-mujeres\/3.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-mujeres\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/parque-mujeres\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56145,
+		"inputAbbreviatedPath": "\/concursos\/parque-mujeres\/thumb.jpg",
+		"outputAbbreviatedPath": "\/concursos\/parque-mujeres\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/concursos\/parque-paz\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -327,6 +371,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/concursos\/universidad-san-juan\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263208,
+		"inputAbbreviatedPath": "\/concursos\/universidad-san-juan\/1.jpg",
+		"outputAbbreviatedPath": "\/concursos\/universidad-san-juan\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/universidad-san-juan\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 329100,
+		"inputAbbreviatedPath": "\/concursos\/universidad-san-juan\/2.jpg",
+		"outputAbbreviatedPath": "\/concursos\/universidad-san-juan\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/universidad-san-juan\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163208,
+		"inputAbbreviatedPath": "\/concursos\/universidad-san-juan\/3.jpg",
+		"outputAbbreviatedPath": "\/concursos\/universidad-san-juan\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/concursos\/universidad-san-juan\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54571,
+		"inputAbbreviatedPath": "\/concursos\/universidad-san-juan\/thumb.jpg",
+		"outputAbbreviatedPath": "\/concursos\/universidad-san-juan\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/concursos\/ypf-nordelta\/1.jpg": {
 		"fileType": 16384,
@@ -1028,6 +1116,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/js\/app.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/app.js",
+		"outputAbbreviatedPath": "\/js\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/cubeportfolio.min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -1507,6 +1606,105 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/obras\/area-60\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167846,
+		"inputAbbreviatedPath": "\/obras\/area-60\/01.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/area-60\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176658,
+		"inputAbbreviatedPath": "\/obras\/area-60\/02.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/area-60\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 209241,
+		"inputAbbreviatedPath": "\/obras\/area-60\/03.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/area-60\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214221,
+		"inputAbbreviatedPath": "\/obras\/area-60\/04.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/area-60\/05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154899,
+		"inputAbbreviatedPath": "\/obras\/area-60\/05.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/area-60\/06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128833,
+		"inputAbbreviatedPath": "\/obras\/area-60\/06.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/area-60\/07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133336,
+		"inputAbbreviatedPath": "\/obras\/area-60\/07.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/area-60\/08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130134,
+		"inputAbbreviatedPath": "\/obras\/area-60\/08.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/area-60\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53951,
+		"inputAbbreviatedPath": "\/obras\/area-60\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/area-60\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/obras\/barrio-alvear\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1562,6 +1760,105 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/obras\/barrios-clubes\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273282,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/barrios-clubes\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 325177,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/barrios-clubes\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 304781,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/barrios-clubes\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 365236,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/barrios-clubes\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222030,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/5.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/barrios-clubes\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 293021,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/6.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/barrios-clubes\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295564,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/7.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/barrios-clubes\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 244397,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/8.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/barrios-clubes\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62947,
+		"inputAbbreviatedPath": "\/obras\/barrios-clubes\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/barrios-clubes\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/obras\/casa-cabra-corral\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1613,6 +1910,61 @@
 		"initialSize": 50108,
 		"inputAbbreviatedPath": "\/obras\/casa-san-bernardino\/thumb.jpg",
 		"outputAbbreviatedPath": "\/obras\/casa-san-bernardino\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/casino-rosario\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177399,
+		"inputAbbreviatedPath": "\/obras\/casino-rosario\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/casino-rosario\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/casino-rosario\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 232654,
+		"inputAbbreviatedPath": "\/obras\/casino-rosario\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/casino-rosario\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/casino-rosario\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203076,
+		"inputAbbreviatedPath": "\/obras\/casino-rosario\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/casino-rosario\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/casino-rosario\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225509,
+		"inputAbbreviatedPath": "\/obras\/casino-rosario\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/casino-rosario\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/casino-rosario\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43405,
+		"inputAbbreviatedPath": "\/obras\/casino-rosario\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/casino-rosario\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1683,6 +2035,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/obras\/ciudad-pueblo-puertos\/10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 310971,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/10.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/obras\/ciudad-pueblo-puertos\/2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1738,6 +2101,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/obras\/ciudad-pueblo-puertos\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152231,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/7.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/ciudad-pueblo-puertos\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 242462,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/8.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/ciudad-pueblo-puertos\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 346985,
+		"inputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/9.jpg",
+		"outputAbbreviatedPath": "\/obras\/ciudad-pueblo-puertos\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/obras\/ciudad-pueblo-puertos\/thumb.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1764,7 +2160,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 242815,
+		"initialSize": 261753,
 		"inputAbbreviatedPath": "\/obras\/club-aguavista\/10.jpg",
 		"outputAbbreviatedPath": "\/obras\/club-aguavista\/10.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2079,6 +2475,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/obras\/dibujos-bocetos\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 229055,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 354411,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 218735,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208822,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 236100,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/5.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169466,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/6.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168862,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/7.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 347441,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/8.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 290679,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/9.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/dibujos-bocetos\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68747,
+		"inputAbbreviatedPath": "\/obras\/dibujos-bocetos\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/dibujos-bocetos\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/obras\/dos-plazas-caballito\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2222,6 +2728,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/obras\/estacion-ypf-nordelta\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115078,
+		"inputAbbreviatedPath": "\/obras\/estacion-ypf-nordelta\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/estacion-ypf-nordelta\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/obras\/estacion-ypf-nordelta\/thumb.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2229,6 +2746,83 @@
 		"initialSize": 66246,
 		"inputAbbreviatedPath": "\/obras\/estacion-ypf-nordelta\/thumb.jpg",
 		"outputAbbreviatedPath": "\/obras\/estacion-ypf-nordelta\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estaciones-premetro\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151151,
+		"inputAbbreviatedPath": "\/obras\/estaciones-premetro\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/estaciones-premetro\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estaciones-premetro\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182123,
+		"inputAbbreviatedPath": "\/obras\/estaciones-premetro\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/estaciones-premetro\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estaciones-premetro\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 389262,
+		"inputAbbreviatedPath": "\/obras\/estaciones-premetro\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/estaciones-premetro\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estaciones-premetro\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 358353,
+		"inputAbbreviatedPath": "\/obras\/estaciones-premetro\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/estaciones-premetro\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estaciones-premetro\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271963,
+		"inputAbbreviatedPath": "\/obras\/estaciones-premetro\/5.jpg",
+		"outputAbbreviatedPath": "\/obras\/estaciones-premetro\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estaciones-premetro\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 405098,
+		"inputAbbreviatedPath": "\/obras\/estaciones-premetro\/6.jpg",
+		"outputAbbreviatedPath": "\/obras\/estaciones-premetro\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estaciones-premetro\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34448,
+		"inputAbbreviatedPath": "\/obras\/estaciones-premetro\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/estaciones-premetro\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2251,6 +2845,83 @@
 		"initialSize": 35576,
 		"inputAbbreviatedPath": "\/obras\/estancia-el-retiro\/thumb.jpg",
 		"outputAbbreviatedPath": "\/obras\/estancia-el-retiro\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estancias-chacras\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287591,
+		"inputAbbreviatedPath": "\/obras\/estancias-chacras\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/estancias-chacras\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estancias-chacras\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124803,
+		"inputAbbreviatedPath": "\/obras\/estancias-chacras\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/estancias-chacras\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estancias-chacras\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 234458,
+		"inputAbbreviatedPath": "\/obras\/estancias-chacras\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/estancias-chacras\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estancias-chacras\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 238626,
+		"inputAbbreviatedPath": "\/obras\/estancias-chacras\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/estancias-chacras\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estancias-chacras\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210544,
+		"inputAbbreviatedPath": "\/obras\/estancias-chacras\/5.jpg",
+		"outputAbbreviatedPath": "\/obras\/estancias-chacras\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estancias-chacras\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177455,
+		"inputAbbreviatedPath": "\/obras\/estancias-chacras\/6.jpg",
+		"outputAbbreviatedPath": "\/obras\/estancias-chacras\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/estancias-chacras\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43015,
+		"inputAbbreviatedPath": "\/obras\/estancias-chacras\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/estancias-chacras\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2508,6 +3179,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/obras\/hotel-rupu-pehuen\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 305383,
+		"inputAbbreviatedPath": "\/obras\/hotel-rupu-pehuen\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/hotel-rupu-pehuen\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/hotel-rupu-pehuen\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 401589,
+		"inputAbbreviatedPath": "\/obras\/hotel-rupu-pehuen\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/hotel-rupu-pehuen\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/obras\/hotel-rupu-pehuen\/thumb.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2702,6 +3395,39 @@
 		"initialSize": 67630,
 		"inputAbbreviatedPath": "\/obras\/parques-jardines-privados\/thumb.jpg",
 		"outputAbbreviatedPath": "\/obras\/parques-jardines-privados\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/plaza-boedo\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317004,
+		"inputAbbreviatedPath": "\/obras\/plaza-boedo\/02.jpg",
+		"outputAbbreviatedPath": "\/obras\/plaza-boedo\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/plaza-boedo\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 339375,
+		"inputAbbreviatedPath": "\/obras\/plaza-boedo\/03.jpg",
+		"outputAbbreviatedPath": "\/obras\/plaza-boedo\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/plaza-boedo\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263844,
+		"inputAbbreviatedPath": "\/obras\/plaza-boedo\/04.jpg",
+		"outputAbbreviatedPath": "\/obras\/plaza-boedo\/04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2937,6 +3663,127 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/obras\/trabajos-varios\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/10.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/5.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/6.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/7.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/8.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/9.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/trabajos-varios\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87391,
+		"inputAbbreviatedPath": "\/obras\/trabajos-varios\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/trabajos-varios\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/obras\/verazul-barrio\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2991,6 +3838,61 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/obras\/vilas-club\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 380028,
+		"inputAbbreviatedPath": "\/obras\/vilas-club\/1.jpg",
+		"outputAbbreviatedPath": "\/obras\/vilas-club\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/vilas-club\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 322635,
+		"inputAbbreviatedPath": "\/obras\/vilas-club\/2.jpg",
+		"outputAbbreviatedPath": "\/obras\/vilas-club\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/vilas-club\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335306,
+		"inputAbbreviatedPath": "\/obras\/vilas-club\/3.jpg",
+		"outputAbbreviatedPath": "\/obras\/vilas-club\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/vilas-club\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 556442,
+		"inputAbbreviatedPath": "\/obras\/vilas-club\/4.jpg",
+		"outputAbbreviatedPath": "\/obras\/vilas-club\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/obras\/vilas-club\/thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55222,
+		"inputAbbreviatedPath": "\/obras\/vilas-club\/thumb.jpg",
+		"outputAbbreviatedPath": "\/obras\/vilas-club\/thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/prensa.php": {
 		"fileType": 8192,
@@ -3334,7 +4236,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 312018,
+		"initialSize": 80471,
 		"inputAbbreviatedPath": "\/prensa\/dos-torres-urbanas\/1.jpg",
 		"outputAbbreviatedPath": "\/prensa\/dos-torres-urbanas\/1.jpg",
 		"outputPathIsOutsideProject": 0,

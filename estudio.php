@@ -12,48 +12,53 @@
 				<p class="subtitle">Nos especializamos en proyectos de arquitectura del paisaje de mediana y gran envergadura.</p>
 				<p>Contamos con profesionales capacitados para encarar diseños creativos de alta calidad y el desarrollo de documentación técnica y licitatoria para obras de paisajismo en todas las escalas.</p>
 				<p>Tenemos importantes antecedentes en la Argentina y en el exterior en proyectos de parquización de barrios cerrados, clubes, hipódromos y parques públicos.</p>
+				<p>Asimismo contamos con experiencia en la realización de proyectos en una amplia gama de contextos, climas y geografías diversas, incluyendo costas, humedales, áreas montañosas, etc.</p>
 				<p>La interacción entre el diseño del paisaje, la infraestructura de soporte y el posterior mantenimiento de la obra es considerada prioritaria al momento de tomar decisiones en nuestros proyectos.</p>
 				<p>Trabajamos potenciando los conocimientos de Ingeniería, Paisajismo y Arquitectura, realizando un buen feedback con los diferentes áreas profesionales, anticipando los problemas de diseño y constructivos, en grandes áreas de drenajes, recuperación de árboles, evaluación de emprendimientos ecológicos, sustentables, acuacultura, forestaciones, drenajes de grandes áreas, recuperación de suelos, etc.</p>
 			</div>
 		</div>
 		<div class="estudio-col2">
 			<div class="inner">
-				<h2>CV</h2>
-				<p class="subtitle">Ingeniero Fernando González</p>
+				<p class="subtitle">Principales clientes</p>
 
-				<div class="estudio-cv">
-					<p>
-						<strong>Ingeniero Agrónomo</strong>
-						Facultad de Agronomía / U.B.A. (1980) Matrícula Profesional # 11466
-					</p>
-
-					<p>
-						<strong>Paisajista</strong>
-						Postgrado de paisajismo, taller. Distrito V, Arquitectura
-					</p>
-
-					<p style="margin-bottom: 0px;"><strong>Docente</strong></p>
-
-					<p>
-						<em>2000/2009</em><br>
-						Facultad de Arquitectura, Diseño y Urbanismo
-						Docente Planificación y diseño del paisaje I-III
-						Cátedra Arq. VILA - FADU UBA
-					</p>
-					<p>
-						<em>1980/1994</em><br>
-						Cursos y charlas dictados en Facultad de Agronomía - UBA / Facultad de Arquitectura - UBA /
-						Instituciones Públicas y Privadas / Grupos CREA en distintas partes del país.
-						Docente a cargo de los cursos de Jardinería y Planificación de Parques "Juan O'Hall" dependiente de la UBA.
-						Universidad GUIDO DI TELLA.
-					</p>
-					<p>
-						<em>1978/1993</em><br>
-						Facultad de Agronomía/ UBA 
-						Jefe de Trabajos Prácticos por Concurso 
-						Docente Nacional Cátedra de Planificación de Espacios Verdes.
-					</p>
-
+				<div class="estudio-clientes-container row cf">
+					<div class="col-sm-6">
+						<ul class="estudio-clientes cf">
+							<li>Alberto Varas &amp; Asociados Arquitectos</li>
+							<li>AguaVista Club de Campo</li>
+							<li>Antonini-Schon-Zemborain y Asociados Arquitectos</li>
+							<li>Área 60</li>
+							<li>Bodas-Miani-Anger Arquitectos &amp; Asociados</li>
+							<li>Club de Amigos</li>
+							<li>Consultatio Real State</li>
+							<li>Del Puerto-Sardin Arquitectos</li>
+							<li>Edgardo Minond Arquitectos</li>
+							<li>Estudio Baudizzone Lestard y Asociados, Arquitectos</li>
+							<li>Estudio Cabeza</li>
+							<li>FMR Arquitectos</li>
+							<li>Francisco J. Abello y Asociados S.A.</li>
+							<li>Foster &amp; Partners</li>
+						</ul>
+					</div>
+					<div class="col-sm-6">
+						<ul class="estudio-clientes cf">
+							<li>GNVGROUP</li>
+							<li>Hampton Rivoira Arquitectos</li>
+							<li>Hipódromo Argentino de Palermo</li>
+							<li>KLM Arquitectos</li>
+							<li>KPM Arquitectos</li>
+							<li>Mario Roberto Álvarez y Asociados Arquitectos</li>
+							<li>Mercer Seward Arquitectos</li>
+							<li>Proyecto Experience. Arq. Oscar Romero</li>
+							<li>SBASE (Subterráneos de Buenos Aires Sociedad del Estado)</li>
+							<li>SKF Argentina</li>
+							<li>Szuldman / Zambonini Arquitectos</li>
+							<li>TGLT</li>
+							<li>Urgell - Penedo - Urgell Arquitectos</li>
+							<li>Vilas Club</li>
+							<li>Vila Sebastian Arquitectos</li>
+						</ul>
+					</div>
 				</div>
 				
 				<div class="row cf btn-grid">

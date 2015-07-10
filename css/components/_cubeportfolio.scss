@@ -24,7 +24,8 @@
     height: 100%;
     top: 0;
     left: 0;
-    background: url("../img/cbp-loading.gif") no-repeat scroll center center transparent;
+    background: darken($green,8) url("../img/obra-preload.gif") no-repeat scroll center center;
+    border-radius: 4px;
 }
 .cbp>* {
     visibility: hidden;

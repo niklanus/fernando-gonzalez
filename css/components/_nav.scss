@@ -35,6 +35,11 @@
 			&:hover {
 				color: $green;
 			}
+
+			@media only screen and (max-width : 1130px) {
+				font-size: 0.8em;
+				padding: 0 5px;
+			}
 		}
 
 		&.active {

@@ -14,11 +14,6 @@
 	</div>
 </section>
 
-<br>
-<br>
-<br>
-<br>
-
 <?php include_once('includes/footer.php') ?>
 
 </body>
