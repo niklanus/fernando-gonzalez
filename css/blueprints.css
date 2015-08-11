@@ -4933,6 +4933,9 @@ section {
   .home-obras .btn-light, .home-obras .btn-dark, .home-concursos .btn-light, .home-concursos .btn-dark, .home-servicios .btn-light, .home-servicios .btn-dark, .home-estudio .btn-light, .home-estudio .btn-dark, .home-contact .btn-light, .home-contact .btn-dark {
     margin-top: 26px; }
 
+.obras .cbp-concursos {
+  margin-bottom: 4px; }
+
 .obras-grid-caption, .concursos-grid-caption {
   font-size: 1.4em;
   line-height: 1.25em;

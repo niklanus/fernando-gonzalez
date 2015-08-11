@@ -14,7 +14,16 @@ function confirm_query($result_set){
 function find_all_works(){
 	global $connection;
 
-	$query = "SELECT * FROM obras WHERE hidden=0 ORDER BY id ASC";
+	$query = "SELECT * FROM obras WHERE hidden=0 AND featured!=1 ORDER BY id ASC";
+	$works_set = mysqli_query($connection, $query);
+	confirm_query($works_set);
+	return $works_set;
+}
+
+function find_featured_works(){
+	global $connection;
+
+	$query = "SELECT * FROM obras WHERE hidden=0 AND featured=1 ORDER BY id ASC";
 	$works_set = mysqli_query($connection, $query);
 	confirm_query($works_set);
 	return $works_set;
@@ -23,7 +32,7 @@ function find_all_works(){
 function find_works_home(){
 	global $connection;
 
-	$query = "SELECT * FROM obras WHERE hidden=0 ORDER BY id ASC LIMIT 6";
+	$query = "SELECT * FROM obras WHERE hidden=0 AND featured=1 ORDER BY id ASC LIMIT 6";
 	$works_set = mysqli_query($connection, $query);
 	confirm_query($works_set);
 	return $works_set;
@@ -51,6 +60,39 @@ function find_contests_home(){
 function works_portfolio(){
 	$output = "<ul>";
 	$object_set = find_all_works();
+
+	while ( $object = mysqli_fetch_assoc($object_set) ) {
+		$output .= "<li class=\"cbp-item\">
+						<div class=\"cbp-item-wrapper\">
+							<a href=\"obra/{$object["shortname"]}\" class=\"cbp-caption\">
+								<div class=\"cbp-caption-defaultWrap\">
+									<img src=\"obras-data/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
+								</div>
+								<div class=\"cbp-caption-activeWrap\">
+									<div class=\"cbp-l-caption-alignCenter\">
+										<div class=\"cbp-l-caption-body\">
+											<div class=\"obras-grid-caption\">
+												{$object["name"]}<br><span>{$object["location"]}</span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div>
+					</li>";
+    }
+
+    $output .= "</ul>";
+
+    return ($output);
+
+    mysqli_free_result($object_set);
+}
+
+
+function works_featured(){
+	$output = "<ul>";
+	$object_set = find_featured_works();
 
 	while ( $object = mysqli_fetch_assoc($object_set) ) {
 		$output .= "<li class=\"cbp-item\">

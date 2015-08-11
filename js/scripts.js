@@ -151,41 +151,6 @@ $(document).ready(function() {
     });*/
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 (function($, window, document, undefined) {
     'use strict';
 
@@ -214,44 +179,9 @@ $(document).ready(function() {
         }],
         caption: 'zoom',
         displayType: 'sequentially',
-        displayTypeSpeed: 100,
-
-        // lightbox
-        lightboxDelegate: '.cbp-lightbox',
-        lightboxGallery: true,
-        lightboxTitleSrc: 'data-title',
-        lightboxCounter: '<div class="cbp-popup-lightbox-counter">{{current}} of {{total}}</div>',
-
-        // singlePage popup
-        singlePageDelegate: '.cbp-singlePage',
-        singlePageDeeplinking: true,
-        singlePageStickyNavigation: true,
-        singlePageCounter: '<div class="cbp-popup-singlePage-counter">{{current}} of {{total}}</div>',
-        singlePageCallback: function(url, element) {
-            var t = this;
-
-            $.ajax({
-                url: url,
-                type: 'GET',
-                dataType: 'html',
-                timeout: 5000
-            })
-            .done(function(result) {
-                t.updateSinglePage(result);
-            })
-            .fail(function() {
-                t.updateSinglePage("Error! Please refresh the page!");
-            });
-        },
-
-        // single page inline
-        singlePageInlineDelegate: '.cbp-singlePageInline',
-        singlePageInlinePosition: 'above',
-        singlePageInlineInFocus: true,
-        singlePageInlineCallback: function(url, element) {
-            // to update singlePage Inline content use the following method: this.updateSinglePageInline(yourContent)
+        displayTypeSpeed: 100
         }
-    });
+    );
 })(jQuery, window, document);
 
 (function($, window, document, undefined) {
@@ -279,43 +209,7 @@ $(document).ready(function() {
         }],
         caption: 'zoom',
         displayType: 'sequentially',
-        displayTypeSpeed: 100,
-
-        // lightbox
-        lightboxDelegate: '.cbp-lightbox',
-        lightboxGallery: true,
-        lightboxTitleSrc: 'data-title',
-        lightboxCounter: '<div class="cbp-popup-lightbox-counter">{{current}} of {{total}}</div>',
-
-        // singlePage popup
-        singlePageDelegate: '.cbp-singlePage',
-        singlePageDeeplinking: true,
-        singlePageStickyNavigation: true,
-        singlePageCounter: '<div class="cbp-popup-singlePage-counter">{{current}} of {{total}}</div>',
-        singlePageCallback: function(url, element) {
-            var t = this;
-
-            $.ajax({
-                url: url,
-                type: 'GET',
-                dataType: 'html',
-                timeout: 5000
-            })
-            .done(function(result) {
-                t.updateSinglePage(result);
-            })
-            .fail(function() {
-                t.updateSinglePage("Error! Please refresh the page!");
-            });
-        },
-
-        // single page inline
-        singlePageInlineDelegate: '.cbp-singlePageInline',
-        singlePageInlinePosition: 'above',
-        singlePageInlineInFocus: true,
-        singlePageInlineCallback: function(url, element) {
-            // to update singlePage Inline content use the following method: this.updateSinglePageInline(yourContent)
-        }
+        displayTypeSpeed: 100
     });
 })(jQuery, window, document);
 
