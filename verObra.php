@@ -5,7 +5,7 @@
 
 <?php
 	if (!isset($_GET["obra"])) {
-		redirect_to('obras.php');
+		redirect_to('../obras');
 	}
 
 	function find_work(){
@@ -15,7 +15,7 @@
 		$work = mysqli_query($connection, $query);
 
 		if (!(mysqli_num_rows($work) == 1)) {
-			redirect_to('obras.php');
+			redirect_to('../obras');
 		}
 
 		return $work;
@@ -41,7 +41,7 @@
 		</div>
 		<div class="obra-gallery">
 			<?php
-				$work_img_directory = "obras/{$_GET["obra"]}/";
+				$work_img_directory = "obras-data/{$_GET["obra"]}/";
 
 				if (file_exists($work_img_directory.'1.jpg')) {
 					print ("<img src=\"{$work_img_directory}1.jpg\" alt=\"{$GLOBALS['work_name']}\">");

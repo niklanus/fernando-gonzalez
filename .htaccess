@@ -1,0 +1,14 @@
+RewriteEngine on
+
+RewriteBase /
+
+RewriteRule ^/?obras$ obras.php
+RewriteRule ^/?concursos$ concursos.php
+RewriteRule ^/?servicios$ servicios.php
+RewriteRule ^/?estudio$ estudio.php
+RewriteRule ^/?multimedia$ multimedia.php
+RewriteRule ^/?prensa$ prensa.php
+RewriteRule ^/?contacto$ contacto.php
+
+RewriteRule ^obra/([^/\.]+)/?$ verObra.php?obra=$1 [L]
+RewriteRule ^concurso/([^/\.]+)/?$ verConcurso.php?concurso=$1 [L]

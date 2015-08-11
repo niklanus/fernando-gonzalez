@@ -55,9 +55,9 @@ function works_portfolio(){
 	while ( $object = mysqli_fetch_assoc($object_set) ) {
 		$output .= "<li class=\"cbp-item\">
 						<div class=\"cbp-item-wrapper\">
-							<a href=\"verObra.php?obra={$object["shortname"]}\" class=\"cbp-caption\">
+							<a href=\"obra/{$object["shortname"]}\" class=\"cbp-caption\">
 								<div class=\"cbp-caption-defaultWrap\">
-									<img src=\"obras/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
+									<img src=\"obras-data/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
 								</div>
 								<div class=\"cbp-caption-activeWrap\">
 									<div class=\"cbp-l-caption-alignCenter\">
@@ -87,9 +87,9 @@ function works_home(){
 	while ( $object = mysqli_fetch_assoc($object_set) ) {
 		$output .= "<li class=\"cbp-item\">
 						<div class=\"cbp-item-wrapper\">
-							<a href=\"verObra.php?obra={$object["shortname"]}\" class=\"cbp-caption\">
+							<a href=\"obra/{$object["shortname"]}\" class=\"cbp-caption\">
 								<div class=\"cbp-caption-defaultWrap\">
-									<img src=\"obras/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
+									<img src=\"obras-data/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
 								</div>
 								<div class=\"cbp-caption-activeWrap\">
 									<div class=\"cbp-l-caption-alignCenter\">
@@ -119,9 +119,9 @@ function contests_portfolio(){
 	while ( $object = mysqli_fetch_assoc($object_set) ) {
 		$output .= "<li class=\"cbp-item\">
 						<div class=\"cbp-item-wrapper\">
-							<a href=\"verConcurso.php?concurso={$object["shortname"]}\" class=\"cbp-caption\">
+							<a href=\"concurso/{$object["shortname"]}\" class=\"cbp-caption\">
 								<div class=\"cbp-caption-defaultWrap\">
-									<img src=\"concursos/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
+									<img src=\"concursos-data/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
 								</div>
 								<div class=\"cbp-caption-activeWrap\">
 									<div class=\"cbp-l-caption-alignCenter\">
@@ -149,9 +149,9 @@ function contests_home(){
 	while ( $object = mysqli_fetch_assoc($object_set) ) {
 		$output .= "<li class=\"cbp-item\">
 						<div class=\"cbp-item-wrapper\">
-							<a href=\"verConcurso.php?concurso={$object["shortname"]}\" class=\"cbp-caption\">
+							<a href=\"concurso/{$object["shortname"]}\" class=\"cbp-caption\">
 								<div class=\"cbp-caption-defaultWrap\">
-									<img src=\"concursos/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
+									<img src=\"concursos-data/{$object["shortname"]}/thumb.jpg\" alt=\"{$object["name"]}\">
 								</div>
 								<div class=\"cbp-caption-activeWrap\">
 									<div class=\"cbp-l-caption-alignCenter\">

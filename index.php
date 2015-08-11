@@ -10,7 +10,7 @@
 			<div class="fixed-content">
 				<h1>Arquitectura del Paisaje</h1>
 				<p>Nos especializamos en proyectos de arquitectura del paisaje e ingeniería paisajística de mediana y gran envergadura, con importantes antecedentes de trabajo en la Argentina y otros países.</p>
-				<a href="servicios.php" class="btn-light">Nuestros servicios</a>
+				<a href="servicios" class="btn-light">Nuestros servicios</a>
 			</div>
 		</div>
 	</div>
@@ -30,7 +30,7 @@
 			<?php print(works_home()); ?>
 		</div>
 
-		<a class="btn-dark" href="obras.php">Ver todas las Obras</a>
+		<a class="btn-dark" href="obras">Ver todas las Obras</a>
 	</div>
 </section>
 
@@ -42,7 +42,7 @@
 			<?php print(contests_home()); ?>
 		</div>
 
-		<a class="btn-dark" href="concursos.php">Ver todos los concursos</a>
+		<a class="btn-dark" href="concursos">Ver todos los concursos</a>
 	</div>
 </section>
 
@@ -81,7 +81,7 @@
 				<p class="subtitle">Nos especializamos en proyectos de arquitectura del paisaje de mediana y gran envergadura.</p>
 				<p>Contamos con profesionales capacitados para encarar diseños creativos de alta calidad y el desarrollo de documentación técnica y licitatoria para obras de paisajismo en todas las escalas.</p>
 				<p>Tenemos importantes antecedentes en la Argentina y en el exterior en proyectos de parquización de barrios cerrados, clubes, hipódromos y parques públicos.</p>
-				<a href="estudio.php" class="btn-light">Mas información</a>
+				<a href="estudio" class="btn-light">Mas información</a>
 			</div>
 		</div>
 		<div class="home-estudio-col2">

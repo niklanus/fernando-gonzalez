@@ -5,7 +5,7 @@
 
 <?php
 	if (!isset($_GET["concurso"])) {
-		redirect_to('concursos.php');
+		redirect_to('../concursos');
 	}
 
 	function find_contest(){
@@ -15,7 +15,7 @@
 		$contest = mysqli_query($connection, $query);
 
 		if (!(mysqli_num_rows($contest) == 1)) {
-			redirect_to('concursos.php');
+			redirect_to('../concursos');
 		}
 
 		return $contest;
@@ -41,7 +41,7 @@
 		</div>
 		<div class="obra-gallery">
 			<?php
-				$contest_img_directory = "concursos/{$_GET["concurso"]}/";
+				$contest_img_directory = "concursos-data/{$_GET["concurso"]}/";
 
 				if (file_exists($contest_img_directory.'1.jpg')) {
 					print ("<img src=\"{$contest_img_directory}1.jpg\" alt=\"{$GLOBALS['contest_name']}\">");

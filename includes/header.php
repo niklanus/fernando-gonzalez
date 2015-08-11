@@ -5,6 +5,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Ing. Fernando González - Estudio de Paisajismo</title>
 
+	<base href="/">
+
 	<link href="css/blueprints.css" rel="stylesheet">
 	<!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -16,15 +18,15 @@
 <body>
 <nav id="navbar" class="navbar">
 	<div class="container-fluid">
-		<a class="navbar-logo" href="index.php"></a>
+		<a class="navbar-logo" href="/"></a>
 		<ul class="navbar-items">
-			<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras.php">Obras y Proyectos</a></li>
-			<li class="<?php if($currentPage == 'concursos') print 'active' ?>"><a href="concursos.php">Concursos</a></li>
-			<li class="<?php if($currentPage == 'servicios') print 'active' ?>"><a href="servicios.php">Servicios</a></li>
-			<li class="<?php if($currentPage == 'estudio') print 'active' ?>"><a href="estudio.php">El Estudio</a></li>
-			<li class="<?php if($currentPage == 'multimedia') print 'active' ?>"><a href="multimedia.php">Multimedia</a></li>
-			<li class="<?php if($currentPage == 'prensa') print 'active' ?>"><a href="prensa.php">Prensa</a></li>
-			<li class="<?php if($currentPage == 'contacto') print 'active' ?>"><a href="contacto.php">Contacto</a></li>
+			<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras">Obras y Proyectos</a></li>
+			<li class="<?php if($currentPage == 'concursos') print 'active' ?>"><a href="concursos">Concursos</a></li>
+			<li class="<?php if($currentPage == 'servicios') print 'active' ?>"><a href="servicios">Servicios</a></li>
+			<li class="<?php if($currentPage == 'estudio') print 'active' ?>"><a href="estudio">El Estudio</a></li>
+			<li class="<?php if($currentPage == 'multimedia') print 'active' ?>"><a href="multimedia">Multimedia</a></li>
+			<li class="<?php if($currentPage == 'prensa') print 'active' ?>"><a href="prensa">Prensa</a></li>
+			<li class="<?php if($currentPage == 'contacto') print 'active' ?>"><a href="contacto">Contacto</a></li>
 			<li class="nav-trigger">
 				<button class="btn" id="nav-trigger">
 					<div class="btn-nav-trigger">
@@ -39,12 +41,12 @@
 </nav>
 <nav class="nav-mobile">
 	<ul>
-		<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras.php">Obras y Proyectos</a></li>
-		<li class="<?php if($currentPage == 'concursos') print 'active' ?>"><a href="concursos.php">Concursos</a></li>
-		<li class="<?php if($currentPage == 'servicios') print 'active' ?>"><a href="servicios.php">Servicios</a></li>
-		<li class="<?php if($currentPage == 'estudio') print 'active' ?>"><a href="estudio.php">El Estudio</a></li>
-		<li class="<?php if($currentPage == 'multimedia') print 'active' ?>"><a href="multimedia.php">Multimedia</a></li>
-		<li class="<?php if($currentPage == 'prensa') print 'active' ?>"><a href="prensa.php">Prensa</a></li>
-		<li class="<?php if($currentPage == 'contacto') print 'active' ?>"><a href="contacto.php">Contacto</a></li>
+		<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras">Obras y Proyectos</a></li>
+		<li class="<?php if($currentPage == 'concursos') print 'active' ?>"><a href="concursos">Concursos</a></li>
+		<li class="<?php if($currentPage == 'servicios') print 'active' ?>"><a href="servicios">Servicios</a></li>
+		<li class="<?php if($currentPage == 'estudio') print 'active' ?>"><a href="estudio">El Estudio</a></li>
+		<li class="<?php if($currentPage == 'multimedia') print 'active' ?>"><a href="multimedia">Multimedia</a></li>
+		<li class="<?php if($currentPage == 'prensa') print 'active' ?>"><a href="prensa">Prensa</a></li>
+		<li class="<?php if($currentPage == 'contacto') print 'active' ?>"><a href="contacto">Contacto</a></li>
 	</ul>
 </nav>

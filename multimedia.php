@@ -10,9 +10,9 @@
 			<ul>
 				<li class="cbp-item">
 					<div class="cbp-item-wrapper">
-						<a href="multimedia/parque-mujeres-argentinas/ver.html" class="cbp-caption cbp-singlePage">
+						<a href="multimedia-data/parque-mujeres-argentinas/ver.html" class="cbp-caption cbp-singlePage">
 							<div class="cbp-caption-defaultWrap">
-								<img src="multimedia/parque-mujeres-argentinas/thumb.jpg" alt="Parque Mujeres Argentinas">
+								<img src="multimedia-data/parque-mujeres-argentinas/thumb.jpg" alt="Parque Mujeres Argentinas">
 							</div>
 							<div class="cbp-caption-activeWrap">
 								<div class="cbp-l-caption-alignCenter">
@@ -27,9 +27,9 @@
 
 				<li class="cbp-item">
 					<div class="cbp-item-wrapper">
-						<a href="multimedia/museo-del-automovil/ver.html" class="cbp-caption cbp-singlePage">
+						<a href="multimedia-data/museo-del-automovil/ver.html" class="cbp-caption cbp-singlePage">
 							<div class="cbp-caption-defaultWrap">
-								<img src="multimedia/museo-del-automovil/thumb.jpg" alt="Museo del Automóvil">
+								<img src="multimedia-data/museo-del-automovil/thumb.jpg" alt="Museo del Automóvil">
 							</div>
 							<div class="cbp-caption-activeWrap">
 								<div class="cbp-l-caption-alignCenter">
@@ -44,9 +44,9 @@
 
 				<li class="cbp-item">
 					<div class="cbp-item-wrapper">
-						<a href="multimedia/complejo-turistico-dos-lagos/ver.html" class="cbp-caption cbp-singlePage">
+						<a href="multimedia-data/complejo-turistico-dos-lagos/ver.html" class="cbp-caption cbp-singlePage">
 							<div class="cbp-caption-defaultWrap">
-								<img src="multimedia/complejo-turistico-dos-lagos/thumb.jpg" alt="Complejo Turístico Dos Lagos">
+								<img src="multimedia-data/complejo-turistico-dos-lagos/thumb.jpg" alt="Complejo Turístico Dos Lagos">
 							</div>
 							<div class="cbp-caption-activeWrap">
 								<div class="cbp-l-caption-alignCenter">
@@ -61,9 +61,9 @@
 
 				<li class="cbp-item">
 					<div class="cbp-item-wrapper">
-						<a href="multimedia/dibujos/ver.html" class="cbp-caption cbp-singlePage">
+						<a href="multimedia-data/dibujos/ver.html" class="cbp-caption cbp-singlePage">
 							<div class="cbp-caption-defaultWrap">
-								<img src="multimedia/dibujos/thumb.jpg" alt="Dibujos Ing. Fernando Gonzalez">
+								<img src="multimedia-data/dibujos/thumb.jpg" alt="Dibujos Ing. Fernando Gonzalez">
 							</div>
 							<div class="cbp-caption-activeWrap">
 								<div class="cbp-l-caption-alignCenter">
@@ -78,9 +78,9 @@
 
 				<li class="cbp-item">
 					<div class="cbp-item-wrapper">
-						<a href="multimedia/la-reserva-escondida/ver.html" class="cbp-caption cbp-singlePage">
+						<a href="multimedia-data/la-reserva-escondida/ver.html" class="cbp-caption cbp-singlePage">
 							<div class="cbp-caption-defaultWrap">
-								<img src="multimedia/la-reserva-escondida/thumb.jpg" alt="La Reserva Escondida">
+								<img src="multimedia-data/la-reserva-escondida/thumb.jpg" alt="La Reserva Escondida">
 							</div>
 							<div class="cbp-caption-activeWrap">
 								<div class="cbp-l-caption-alignCenter">
@@ -95,9 +95,9 @@
 
 				<li class="cbp-item">
 					<div class="cbp-item-wrapper">
-						<a href="multimedia/la-victoria-polo-country-club/ver.html" class="cbp-caption cbp-singlePage">
+						<a href="multimedia-data/la-victoria-polo-country-club/ver.html" class="cbp-caption cbp-singlePage">
 							<div class="cbp-caption-defaultWrap">
-								<img src="multimedia/la-victoria-polo-country-club/thumb.jpg" alt="La Victoria Polo Country Club">
+								<img src="multimedia-data/la-victoria-polo-country-club/thumb.jpg" alt="La Victoria Polo Country Club">
 							</div>
 							<div class="cbp-caption-activeWrap">
 								<div class="cbp-l-caption-alignCenter">
