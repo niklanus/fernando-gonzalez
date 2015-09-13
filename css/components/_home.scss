@@ -144,6 +144,33 @@ section {
 	margin-top: 130px;
 }
 
+
+
+// BLOG
+
+.blog-container {
+	padding: 115px 0;
+	background: url(../img/blog-bg.jpg) 50% 50% no-repeat;
+	background-size: cover;
+	color: white;
+	position: relative;
+	text-align: center;
+
+	h1 {
+		margin-bottom: 50px;
+	}
+
+	p {
+		margin-bottom: 50px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	@media only screen and (max-width : 991px) {
+		padding: 75px 0 65px 0;
+	}
+}
+
 .home-obras, .home-concursos, .home-servicios, .home-estudio, .home-contact {
 	text-align: center;
 

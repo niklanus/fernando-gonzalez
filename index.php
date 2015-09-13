@@ -146,6 +146,16 @@
 	</div>
 </section>
 
+<section class="home-blog">
+	<div class="blog-container">
+		<div class="container-fluid max-1500">
+			<h1>Blog</h1>
+			<p>Descubrí los últimos proyectos del Ing. Fernando González en su blog personal.</p>
+			<a href="http://blog.paisajismogonzalez.com" target="_blank" class="btn-light">Visitá el blog</a>
+		</div>
+	</div>
+</section>
+
 <?php include_once('includes/footer.php') ?>
 
 <script>

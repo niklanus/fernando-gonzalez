@@ -20,6 +20,7 @@
 	<div class="container-fluid">
 		<a class="navbar-logo" href="/"></a>
 		<ul class="navbar-items">
+			<li><a href="http://blog.paisajismogonzalez.com">Blog</a></li>
 			<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras">Obras y Proyectos</a></li>
 			<li class="<?php if($currentPage == 'concursos') print 'active' ?>"><a href="concursos">Concursos</a></li>
 			<li class="<?php if($currentPage == 'servicios') print 'active' ?>"><a href="servicios">Servicios</a></li>
@@ -41,6 +42,7 @@
 </nav>
 <nav class="nav-mobile">
 	<ul>
+		<li><a href="http://blog.paisajismogonzalez.com">Blog</a></li>
 		<li class="<?php if($currentPage == 'obras') print 'active' ?>"><a href="obras">Obras y Proyectos</a></li>
 		<li class="<?php if($currentPage == 'concursos') print 'active' ?>"><a href="concursos">Concursos</a></li>
 		<li class="<?php if($currentPage == 'servicios') print 'active' ?>"><a href="servicios">Servicios</a></li>
